@@ -4,11 +4,11 @@
     <section class="mb-40">
      
   
-      <div class="px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left">
+      <div class="px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left block rounded-lg shadow-lg">
         <div class="container mx-auto xl:px-32">
           <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div class="mt-12 lg:mt-0">
-              <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">Technetium: <br /><span class="text-blue-600">The first student led hackathon</span></h1>
+              <h1 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-">Technetium: <br /><span class="text-blue-600">The first student led hackathon</span></h1>
               <p class="text-gray-450">
                 Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
                 The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
