@@ -1,6 +1,7 @@
 <script>
  // @ts-ignore
  import pico from "@picocss/pico"
+ let typeEffect = 'typing-dmeo'
 </script>
 <nav class="container mx-auto">
     <div class="navbar-collapse collapse grow items-center" id="navbarSupportedContentY">
@@ -21,8 +22,8 @@
 
 <slot/>
 
-<div class=" container foo text-right">
-     <footer class="text-right"> Technetium 2023.</footer>
+<div class=" container mx-auto text-right">
+     <footer class=""> Technetium 2023</footer>
 </div>
 
 
