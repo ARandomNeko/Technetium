@@ -1,4 +1,5 @@
 <script>
+ // @ts-ignore
  import pico from "@picocss/pico"
 </script>
 <nav class="container mx-auto">
@@ -20,8 +21,8 @@
 
 <slot/>
 
-<div class=" container mx-auto text-right">
-     <footer> Technetium 2023</footer>
+<div class=" container  text-right">
+     <footer class="text-right"> Technetium 2023.</footer>
 </div>
 
 
