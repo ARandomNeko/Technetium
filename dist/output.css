@@ -547,18 +547,19 @@ video {
   }
 }
 
-.mx-auto {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .mx-9 {
   margin-left: 2.25rem;
   margin-right: 2.25rem;
 }
 
-.mt-1 {
-  margin-top: 0.25rem;
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mx-11 {
+  margin-left: 2.75rem;
+  margin-right: 2.75rem;
 }
 
 .contents {
@@ -707,4 +708,33 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+.wrapper {
+  height: 100vh;
+  /*This part is important for centering*/
+  display: grid;
+  place-items: center;
+}
+
+.typing-demo {
+  width: 22ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-family: monospace;
+  font-size: 2em;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
 }

@@ -1,14 +1,14 @@
 <script>
  import pico from "@picocss/pico"
 </script>
-<nav>
+<nav class="container mx-auto">
     <a href="/"> My site</a>
 </nav>
 
 
 <slot/>
 
-<div class="container mx-9   text-right">
+<div class=" container mx-auto text-right">
      <footer> Technetium 2023</footer>
 </div>
 
