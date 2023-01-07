@@ -1,6 +1,5 @@
 <script>
- // @ts-ignore
- import pico from "@picocss/pico"
+ import pico from "@picocss/pico    "
  import Header from "$lib/header.svelte"; 
 </script>
 
