@@ -1,15 +1,17 @@
 <script>
-    import pico from "@picocss/pico"
+
 </script>
 <nav>
-    <a prefetch href="/"> My site</a>
+    <a href="/"> My site</a>
 </nav>
 
 
 <slot/>
 
+<div class="container mx-9   text-right"><span class="ms-md-1 mt-1 fw-bolder me-md-5">Klar</span>
+    <footer> Technetium 2023</footer>
+</div>
 
-<footer> Technetium 2023</footer>
 
 <style>
     nav{
