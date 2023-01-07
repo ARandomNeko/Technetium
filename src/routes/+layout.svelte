@@ -21,7 +21,7 @@
 
 <slot/>
 
-<div class=" container  text-right">
+<div class=" container foo text-right">
      <footer class="text-right"> Technetium 2023.</footer>
 </div>
 

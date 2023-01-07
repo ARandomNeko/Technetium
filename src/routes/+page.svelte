@@ -4,7 +4,7 @@
     <section class="mb-40">
      
   
-      <div class="px-6 py-12 md:px-12 background : (0, 0, 0, 0.4 text-gray-800 text-center lg:text-left">
+      <div class="px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left">
         <div class="container mx-auto xl:px-32">
           <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div class="mt-12 lg:mt-0">
