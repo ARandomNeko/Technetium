@@ -1,6 +1,6 @@
 <script>
- // @ts-ignore
- import pico from "@picocss/pico    "
+
+ import "@picocss/pico/css/pico.css";
  import Header from "$lib/header.svelte"; 
 </script>
 
@@ -14,3 +14,14 @@
 </div>
 
 
+<style>
+     nav{
+         background : (0, 0, 0, 0.4);
+         padding-top: 1rem;
+         padding-bottom: 1rem;
+         
+         letter-spacing: 0.1px;
+         font-weight: 500;
+ }
+ 
+ </style>
