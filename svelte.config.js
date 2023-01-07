@@ -9,7 +9,9 @@ const config = {
 
 	kit: {
 		adapter: cloudflare()
-	}
+	},
+	preprocess: vitePreprocess()
+
 };
 
 export default config;
