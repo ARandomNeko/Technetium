@@ -8,8 +8,8 @@
 
 <slot/>
 
-<div class="container mx-9   text-right"><span class="ms-md-1 mt-1 fw-bolder me-md-5">Klar</span>
-    <footer> Technetium 2023</footer>
+<div class="container mx-9   text-right">
+     <footer> Technetium 2023</footer>
 </div>
 
 
