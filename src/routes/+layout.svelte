@@ -1,5 +1,5 @@
 <script>
-
+ import pico from "@picocss/pico"
 </script>
 <nav>
     <a href="/"> My site</a>
