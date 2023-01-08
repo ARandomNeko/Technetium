@@ -76,8 +76,8 @@ function subscribe(store, ...callbacks) {
   const unsub = store.subscribe(...callbacks);
   return unsub.unsubscribe ? () => unsub.unsubscribe() : unsub;
 }
-function set_current_component(component4) {
-  current_component = component4;
+function set_current_component(component5) {
+  current_component = component5;
 }
 function get_current_component() {
   if (!current_component)
@@ -105,13 +105,13 @@ function escape(value, is_attr = false) {
   }
   return escaped2 + str.substring(last);
 }
-function validate_component(component4, name) {
-  if (!component4 || !component4.$$render) {
+function validate_component(component5, name) {
+  if (!component5 || !component5.$$render) {
     if (name === "svelte:component")
       name += " this={...}";
     throw new Error(`<${name}> is not a valid SSR component. You may need to review your build config to ensure that dependencies are compiled, rather than imported as pre-compiled modules. Otherwise you may need to fix a <${name}>.`);
   }
-  return component4;
+  return component5;
 }
 function create_ssr_component(fn) {
   function $$render(result, props, bindings, slots, context) {
@@ -139,7 +139,7 @@ function create_ssr_component(fn) {
       return {
         html,
         css: {
-          code: Array.from(result.css).map((css) => css.code).join("\n"),
+          code: Array.from(result.css).map((css2) => css2.code).join("\n"),
           map: null
           // TODO
         },
@@ -176,20 +176,20 @@ var require_cookie = __commonJS({
       var obj = {};
       var opt = options || {};
       var dec = opt.decode || decode;
-      var index4 = 0;
-      while (index4 < str.length) {
-        var eqIdx = str.indexOf("=", index4);
+      var index5 = 0;
+      while (index5 < str.length) {
+        var eqIdx = str.indexOf("=", index5);
         if (eqIdx === -1) {
           break;
         }
-        var endIdx = str.indexOf(";", index4);
+        var endIdx = str.indexOf(";", index5);
         if (endIdx === -1) {
           endIdx = str.length;
         } else if (endIdx < eqIdx) {
-          index4 = str.lastIndexOf(";", eqIdx - 1) + 1;
+          index5 = str.lastIndexOf(";", eqIdx - 1) + 1;
           continue;
         }
-        var key2 = str.slice(index4, eqIdx).trim();
+        var key2 = str.slice(index5, eqIdx).trim();
         if (void 0 === obj[key2]) {
           var val = str.slice(eqIdx + 1, endIdx).trim();
           if (val.charCodeAt(0) === 34) {
@@ -197,7 +197,7 @@ var require_cookie = __commonJS({
           }
           obj[key2] = tryDecode(val, dec);
         }
-        index4 = endIdx + 1;
+        index5 = endIdx + 1;
       }
       return obj;
     }
@@ -474,17 +474,35 @@ var init_hooks = __esm({
   }
 });
 
-// .svelte-kit/output/server/entries/fallbacks/layout.svelte.js
+// .svelte-kit/output/server/entries/pages/_layout.svelte.js
 var layout_svelte_exports = {};
 __export(layout_svelte_exports, {
   default: () => Layout
 });
-var Layout;
+var css, Layout;
 var init_layout_svelte = __esm({
-  ".svelte-kit/output/server/entries/fallbacks/layout.svelte.js"() {
+  ".svelte-kit/output/server/entries/pages/_layout.svelte.js"() {
     init_chunks();
+    css = {
+      code: "header.svelte-jyzsw5{display:grid;place-items:left}",
+      map: null
+    };
     Layout = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-      return `${slots.default ? slots.default({}) : ``}`;
+      $$result.css.add(css);
+      return `<header class="${"svelte-jyzsw5"}"><nav class="${"bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900"}"><div class="${"container flex flex-wrap items-center justify-between mx-auto"}"><a href="${"/"}" class="${"flex items-center"}"><img src="${"https://flowbite.com/docs/images/logo.svg"}" class="${"h-6 mr-3 sm:h-9"}" alt="${"Flowbite Logo"}">
+           <span class="${"self-center text-xl font-semibold whitespace-nowrap dark:text-white"}">Technetium</span></a>
+       <button data-collapse-toggle="${"navbar-default"}" type="${"button"}" class="${"inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"}" aria-controls="${"navbar-default"}" aria-expanded="${"false"}"><span class="${"sr-only"}">Open main menu</span>
+         <svg class="${"w-6 h-6"}" aria-hidden="${"true"}" fill="${"currentColor"}" viewBox="${"0 0 20 20"}" xmlns="${"http://www.w3.org/2000/svg"}"><path fill-rule="${"evenodd"}" d="${"M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z"}" clip-rule="${"evenodd"}"></path></svg></button>
+       <div class="${"hidden w-full md:block md:w-auto"}" id="${"navbar-default"}"><ul class="${"flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700"}"><li><a href="${"/"}" class="${"block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"}">Home</a></li>
+           <li><a href="${"/Team"}" class="${"block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"}">Team</a></li>
+           <li><a href="${"#!"}" class="${"block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"}">Services</a></li>
+           <li><a href="${"#!"}" class="${"block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"}">Pricing</a></li>
+           <li><a href="${"#!"}" class="${"block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"}">Contact</a></li></ul></div></div></nav></header>
+
+${slots.default ? slots.default({}) : ``}
+
+<div class="${"container mx-auto "}"><footer class="${"text-right"}"><a href="${"/"}">Technetium 2023.</a></footer>
+</div>`;
     });
   }
 });
@@ -504,9 +522,9 @@ var init__ = __esm({
   ".svelte-kit/output/server/nodes/0.js"() {
     index = 0;
     component = async () => (await Promise.resolve().then(() => (init_layout_svelte(), layout_svelte_exports))).default;
-    file = "_app/immutable/components/layout.svelte-cd8f1078.js";
-    imports = ["_app/immutable/components/layout.svelte-cd8f1078.js", "_app/immutable/chunks/index-7f3551f2.js"];
-    stylesheets = [];
+    file = "_app/immutable/components/pages/_layout.svelte-d14a48ac.js";
+    imports = ["_app/immutable/components/pages/_layout.svelte-d14a48ac.js", "_app/immutable/chunks/index-4b174ea5.js"];
+    stylesheets = ["_app/immutable/assets/_layout-57b3f92b.css"];
     fonts = [];
   }
 });
@@ -564,8 +582,8 @@ var init__2 = __esm({
   ".svelte-kit/output/server/nodes/1.js"() {
     index2 = 1;
     component2 = async () => (await Promise.resolve().then(() => (init_error_svelte(), error_svelte_exports))).default;
-    file2 = "_app/immutable/components/error.svelte-03b3ffcb.js";
-    imports2 = ["_app/immutable/components/error.svelte-03b3ffcb.js", "_app/immutable/chunks/index-7f3551f2.js", "_app/immutable/chunks/singletons-c1916556.js"];
+    file2 = "_app/immutable/components/error.svelte-92c46518.js";
+    imports2 = ["_app/immutable/components/error.svelte-92c46518.js", "_app/immutable/chunks/index-4b174ea5.js", "_app/immutable/chunks/singletons-14c5c1b1.js"];
     stylesheets2 = [];
     fonts2 = [];
   }
@@ -581,8 +599,21 @@ var init_page_svelte = __esm({
   ".svelte-kit/output/server/entries/pages/_page.svelte.js"() {
     init_chunks();
     Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
-      return `<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="${"https://kit.svelte.dev"}">kit.svelte.dev</a> to read the documentation</p>`;
+      return `<div class="${"mb-20"}" style="${"background-image: url('https://wallpapersmug.com/download/1600x900/dbc266/texture-dark-surface.jpg');background-repeat: no-repeat; background-size: cover;"}">
+    <section class="${"mb-20 translate-y-12"}"><div class="${"px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left block rounded-lg shadow-lg"}"><div class="${"container mx-auto xl:px-32"}"><div class="${"grid lg:grid-cols-2 gap-12 items-center"}"><div class="${"mt-12 lg:mt-0"}"><h1 class="${"typing-title text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1"}">Technetium </h1>
+              <h1 class="${"text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight text-blue-600 mb-1"}">The first student led hackathon</h1>
+              <p class="${"text-gray-450"}">Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
+                The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
+              </p></div>
+            <div class="${"mb-8 lg:mb-0"}"><div class="${"block rounded-lg shadow-lg bg-gray-800 px-2 py-12 md:px-12"}"><form><div class="${"grid md:grid-cols-2 md:gap-6"}"><div class="${"mb-1"}"><input type="${"text"}" class="${"form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none"}" placeholder="${"First name"}"></div>
+                    <div class="${"mb-1"}"><input type="${"text"}" class="${"form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none"}" placeholder="${"Last name"}"></div></div>
+                  <input type="${"email"}" class="${"form-control block w-full px-3 py-1.5 mb-6 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none"}" placeholder="${"Email address"}">
+                  <input type="${"password"}" class="${"form-control block w-full px-3 py-1.5 mb-6 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none"}" placeholder="${"Password"}">
+                  <div class="${"form-check flex justify-center mb-6"}"></div>
+                  <button type="${"button"}" data-mdb-ripple="${"true"}" data-mdb-ripple-color="${"light"}" class="${"inline-block px-6 py-2.5 mb-6 w-full bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out"}">Register
+                </button></form></div></div></div></div></div></section>
+    </div>
+  `;
     });
   }
 });
@@ -602,10 +633,47 @@ var init__3 = __esm({
   ".svelte-kit/output/server/nodes/2.js"() {
     index3 = 2;
     component3 = async () => (await Promise.resolve().then(() => (init_page_svelte(), page_svelte_exports))).default;
-    file3 = "_app/immutable/components/pages/_page.svelte-84041f18.js";
-    imports3 = ["_app/immutable/components/pages/_page.svelte-84041f18.js", "_app/immutable/chunks/index-7f3551f2.js"];
+    file3 = "_app/immutable/components/pages/_page.svelte-cf43ca54.js";
+    imports3 = ["_app/immutable/components/pages/_page.svelte-cf43ca54.js", "_app/immutable/chunks/index-4b174ea5.js"];
     stylesheets3 = [];
     fonts3 = [];
+  }
+});
+
+// .svelte-kit/output/server/entries/pages/Team/_page.svelte.js
+var page_svelte_exports2 = {};
+__export(page_svelte_exports2, {
+  default: () => Page2
+});
+var Page2;
+var init_page_svelte2 = __esm({
+  ".svelte-kit/output/server/entries/pages/Team/_page.svelte.js"() {
+    init_chunks();
+    Page2 = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+      return `<h1 class="${"contain mx-auto text-gray-300"}">insert the team page here<br>use cards with pictures of everyone on them or smth </h1>`;
+    });
+  }
+});
+
+// .svelte-kit/output/server/nodes/3.js
+var __exports4 = {};
+__export(__exports4, {
+  component: () => component4,
+  file: () => file4,
+  fonts: () => fonts4,
+  imports: () => imports4,
+  index: () => index4,
+  stylesheets: () => stylesheets4
+});
+var index4, component4, file4, imports4, stylesheets4, fonts4;
+var init__4 = __esm({
+  ".svelte-kit/output/server/nodes/3.js"() {
+    index4 = 3;
+    component4 = async () => (await Promise.resolve().then(() => (init_page_svelte2(), page_svelte_exports2))).default;
+    file4 = "_app/immutable/components/pages/Team/_page.svelte-8f6b1890.js";
+    imports4 = ["_app/immutable/components/pages/Team/_page.svelte-8f6b1890.js", "_app/immutable/chunks/index-4b174ea5.js"];
+    stylesheets4 = [];
+    fonts4 = [];
   }
 });
 
@@ -907,8 +975,8 @@ function stringify(value) {
       return NEGATIVE_INFINITY;
     if (thing === 0 && 1 / thing < 0)
       return NEGATIVE_ZERO;
-    const index5 = p++;
-    indexes.set(thing, index5);
+    const index6 = p++;
+    indexes.set(thing, index6);
     let str = "";
     if (is_primitive(thing)) {
       str = stringify_primitive2(thing);
@@ -998,12 +1066,12 @@ function stringify(value) {
           }
       }
     }
-    stringified[index5] = str;
-    return index5;
+    stringified[index6] = str;
+    return index6;
   }
-  const index4 = flatten(value);
-  if (index4 < 0)
-    return `${index4}`;
+  const index5 = flatten(value);
+  if (index5 < 0)
+    return `${index5}`;
   return `[${stringified.join(",")}]`;
 }
 function stringify_primitive2(thing) {
@@ -2221,9 +2289,9 @@ async function render_response({
     }
   }
   const { entry } = options.manifest._;
-  const stylesheets4 = new Set(entry.stylesheets);
+  const stylesheets5 = new Set(entry.stylesheets);
   const modulepreloads = new Set(entry.imports);
-  const fonts4 = new Set(options.manifest._.entry.fonts);
+  const fonts5 = new Set(options.manifest._.entry.fonts);
   const link_header_preloads = /* @__PURE__ */ new Set();
   const inline_styles = /* @__PURE__ */ new Map();
   let rendered;
@@ -2258,10 +2326,10 @@ async function render_response({
         node.imports.forEach((url) => modulepreloads.add(url));
       }
       if (node.stylesheets) {
-        node.stylesheets.forEach((url) => stylesheets4.add(url));
+        node.stylesheets.forEach((url) => stylesheets5.add(url));
       }
       if (node.fonts) {
-        node.fonts.forEach((url) => fonts4.add(url));
+        node.fonts.forEach((url) => fonts5.add(url));
       }
       if (node.inline_styles) {
         Object.entries(await node.inline_styles()).forEach(([k, v]) => inline_styles.set(k, v));
@@ -2327,7 +2395,7 @@ async function render_response({
     head += `
 	<style${attributes.join("")}>${content}</style>`;
   }
-  for (const dep of stylesheets4) {
+  for (const dep of stylesheets5) {
     const path = prefixed(dep);
     if (resolve_opts.preload({ type: "css", path })) {
       const attributes = [];
@@ -2345,7 +2413,7 @@ async function render_response({
 		<link href="${path}" ${attributes.join(" ")}>`;
     }
   }
-  for (const dep of fonts4) {
+  for (const dep of fonts5) {
     const path = prefixed(dep);
     if (resolve_opts.preload({ type: "font", path })) {
       const ext = dep.slice(dep.lastIndexOf(".") + 1);
@@ -2709,8 +2777,8 @@ async function render_page(event, route, page2, options, state, resolve_opts) {
           const error2 = await handle_error_and_jsonify(event, options, err);
           while (i--) {
             if (page2.errors[i]) {
-              const index4 = page2.errors[i];
-              const node2 = await options.manifest._.nodes[index4]();
+              const index5 = page2.errors[i];
+              const node2 = await options.manifest._.nodes[index5]();
               let j = i;
               while (!branch[j])
                 j -= 1;
@@ -3128,10 +3196,10 @@ function create_fetch({ event, options, state, get_cookie_header }) {
         const is_asset = options.manifest.assets.has(filename);
         const is_asset_html = options.manifest.assets.has(filename_html);
         if (is_asset || is_asset_html) {
-          const file4 = is_asset ? filename : filename_html;
+          const file5 = is_asset ? filename : filename_html;
           if (options.read) {
             const type = is_asset ? options.manifest.mimeTypes[filename.slice(filename.lastIndexOf("."))] : "text/html";
-            return new Response(options.read(file4), {
+            return new Response(options.read(file5), {
               headers: type ? { "content-type": type } : {}
             });
           }
@@ -3495,7 +3563,7 @@ function set_paths(paths) {
   base = paths.base;
   assets = paths.assets || base;
 }
-var app_template = ({ head, body, assets: assets2, nonce }) => '<!DOCTYPE html>\n<html lang="en">\n	<head>\n		<meta charset="utf-8" />\n		<link rel="icon" href="' + assets2 + '/favicon.png" />\n		<meta name="viewport" content="width=device-width" />\n		' + head + '\n	</head>\n	<body data-sveltekit-preload-data="hover">\n		<div style="display: contents">' + body + "</div>\n	</body>\n</html>\n";
+var app_template = ({ head, body, assets: assets2, nonce }) => '<!DOCTYPE html>\n<html lang="en">\n	<head>\n		<meta charset="utf-8" />\n		<link rel="icon" href="' + assets2 + '/favicon.png" />\n		<meta name="viewport" content="width=device-width" />\n		<link href="/dist/output.css" rel="stylesheet">\n		<link rel="stylesheet" href="css/pico.min.css">\n		' + head + '\n	</head>\n	<body data-sveltekit-preload-data="hover">\n		<div style="display: contents">' + body + "</div>\n	</body>\n</html>\n";
 var error_template = ({ status, message }) => '<!DOCTYPE html>\n<html lang="en">\n	<head>\n		<meta charset="utf-8" />\n		<title>' + message + `</title>
 
 		<style>
@@ -3568,7 +3636,7 @@ var Server = class {
       app_template,
       app_template_contains_nonce: false,
       error_template,
-      version: "1673089425607"
+      version: "1673174619372"
     };
   }
   /**
@@ -3602,14 +3670,15 @@ var Server = class {
 var manifest = {
   appDir: "_app",
   appPath: "_app",
-  assets: /* @__PURE__ */ new Set(["favicon.png"]),
-  mimeTypes: { ".png": "image/png" },
+  assets: /* @__PURE__ */ new Set(["bg-1.jpg", "favicon.png"]),
+  mimeTypes: { ".jpg": "image/jpeg", ".png": "image/png" },
   _: {
-    entry: { "file": "_app/immutable/start-26d94940.js", "imports": ["_app/immutable/start-26d94940.js", "_app/immutable/chunks/index-7f3551f2.js", "_app/immutable/chunks/singletons-c1916556.js"], "stylesheets": [], "fonts": [] },
+    entry: { "file": "_app/immutable/start-08a006ba.js", "imports": ["_app/immutable/start-08a006ba.js", "_app/immutable/chunks/index-4b174ea5.js", "_app/immutable/chunks/singletons-14c5c1b1.js"], "stylesheets": [], "fonts": [] },
     nodes: [
       () => Promise.resolve().then(() => (init__(), __exports)),
       () => Promise.resolve().then(() => (init__2(), __exports2)),
-      () => Promise.resolve().then(() => (init__3(), __exports3))
+      () => Promise.resolve().then(() => (init__3(), __exports3)),
+      () => Promise.resolve().then(() => (init__4(), __exports4))
     ],
     routes: [
       {
@@ -3617,6 +3686,13 @@ var manifest = {
         pattern: /^\/$/,
         params: [],
         page: { layouts: [0], errors: [1], leaf: 2 },
+        endpoint: null
+      },
+      {
+        id: "/Team",
+        pattern: /^\/Team\/?$/,
+        params: [],
+        page: { layouts: [0], errors: [1], leaf: 3 },
         endpoint: null
       }
     ],
@@ -3682,12 +3758,12 @@ var worker = {
       });
     } else {
       pathname = pathname.replace(/\/$/, "") || "/";
-      let file4 = pathname.substring(1);
+      let file5 = pathname.substring(1);
       try {
-        file4 = decodeURIComponent(file4);
+        file5 = decodeURIComponent(file5);
       } catch (err) {
       }
-      if (manifest.assets.has(file4) || manifest.assets.has(file4 + "/index.html") || prerendered.has(pathname)) {
+      if (manifest.assets.has(file5) || manifest.assets.has(file5 + "/index.html") || prerendered.has(pathname)) {
         res = await env.ASSETS.fetch(req);
       } else {
         res = await server.respond(req, {
