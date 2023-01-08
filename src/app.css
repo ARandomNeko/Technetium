@@ -158,5 +158,11 @@
         display: grid;
         
         height: 100vh;
+        
+      }
+
+      section {
+        display: grid;
+
         place-items: center;
       }
