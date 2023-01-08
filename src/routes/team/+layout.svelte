@@ -1,9 +1,9 @@
 <script>
 
   import "@picocss/pico/css/pico.css";
- import "../app.css";
+ import "/src/app.css";
  </script>
- 
+ x
  
  <header>
  
