@@ -1,1 +1,1 @@
-
+<h1 class="contain mx-auto">insert the team page here<br>use cards with pictures of everyone on them or smth</h1>
