@@ -153,3 +153,10 @@
         font-family: monospace;
         font-size: 2em;
       }
+
+      body {
+        display: grid;
+        
+        height: 100vh;
+        place-items: center;
+      }
