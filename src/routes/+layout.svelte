@@ -43,7 +43,7 @@ import "../app.css";
 
 <slot/>
 
-<div class =" container mx-auto text-right translate-x-40">
+<div class =" container mx-auto  ">
      <footer class =" text-right"> 
      <a href="/">Technetium 2023.</a>
      </footer>
@@ -52,5 +52,10 @@ import "../app.css";
 
 <style>
     
+    header {
+        display: grid;
+
+        place-items: left;
+      }
  
  </style>
