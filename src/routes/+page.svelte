@@ -1,7 +1,7 @@
 <div class="mb-20"  style = "background-image: url('https://wallpapersmug.com/download/1600x900/dbc266/texture-dark-surface.jpg');background-repeat: no-repeat;  background-size: cover;">
 
     <!-- Section: Design Block -->
-    <section class="mb-20 translate-y-16">
+    <section class="mb-20 translate-y-12">
      
   
       <div class="px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left block rounded-lg shadow-lg">
