@@ -1,14 +1,14 @@
 <div>
 
     <!-- Section: Design Block -->
-    <section class="mb-40">
+    <section class="mb-20">
      
   
       <div class="px-6 py-12 md:px-12 bg-black text-gray-800 text-center lg:text-left block rounded-lg shadow-lg">
         <div class="container mx-auto xl:px-32">
           <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div class="mt-12 lg:mt-0">
-              <h1 class="typing-demo text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1">Technetium </h1>
+              <h1 class="typing-title text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1">Technetium </h1>
               <h1 class=" text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight text-blue-600 mb-1">The first student led hackathon</h1>
               <p class="text-gray-450">
                 Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
@@ -16,7 +16,7 @@
               </p>
             </div>
             <div class="mb-8 lg:mb-0">
-              <div class="block rounded-lg shadow-lg bg-slate-200 px-2 py-12 md:px-12">
+              <div class="block rounded-lg shadow-lg bg-gray-800 px-2 py-12 md:px-12">
                 <form >
                   <div class="grid md:grid-cols-2 md:gap-6">
                     <div class="mb-1">
