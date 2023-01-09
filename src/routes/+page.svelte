@@ -1,4 +1,4 @@
-<div class="mb-20 bg-black"  >
+<div class="mb-0 bg-black"  >
 
     <!-- Section: Design Block -->
     <section class="mb-20 translate-y-12">

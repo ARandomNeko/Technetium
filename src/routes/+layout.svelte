@@ -7,7 +7,7 @@ import "../app.css";
 
 <header>
 
-<nav class=" border-gray-200 px-2 sm:px-4 py-2.5  bg-slate">
+<nav class=" border-gray-200 px-2 sm:px-4 py-2.5  bg-slate-900">
      <div class="container flex flex-wrap items-center justify-between mx-auto">
        <a href="/" class="flex items-center">
            <img src="https://flowbite.com/docs/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Flowbite Logo" />
@@ -43,9 +43,9 @@ import "../app.css";
 
 <slot/>
 
-<div class ="bg-slate container mx-auto  ">
+<div class ="bg-slate-900   ">
      <footer class =" py-12 text-right"> 
-     <a href="/">Technetium 2023.</a>
+     <a class="px-24" href="/">Technetium 2023.</a>
      </footer>
 </div>
 
@@ -58,6 +58,8 @@ import "../app.css";
         place-items: left;
       }
 
-     
+     body{
+      background-color: rgb(15 23 42)
+     }
  
  </style>
