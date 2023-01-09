@@ -45,7 +45,7 @@ import "../app.css";
 
 <div class ="bg-slate-900   ">
      <footer class =" py-12 text-right"> 
-     <a class="px-24" href="/">Technetium 2023.</a>
+     <a class="px-24 text-gray-400" href="/">Technetium 2023.</a>
      </footer>
 </div>
 
