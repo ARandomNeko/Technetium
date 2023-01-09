@@ -6,7 +6,16 @@
         <p class=" text-gray-700 text-left text-sm translate-x-2">Rituparan Reddy</p>
     </div>
     <div class="team-card_load_extreme_descripion">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Lead dev<br> Problem Setter<br>Judge</p>
+        <p class=" text-gray-700 text-left text-sm translate-x-2">Lead developer<br> Problem Setter<br>Judge</p>
+    </div>
+</div>
+<div class="team-card-sahith py-12 " style="transform: translate(-350px,-275px);" >
+    <div class="team-card_load"></div>
+    <div class="team-card_load_extreme_title">
+        <p class=" text-gray-700 text-left text-sm translate-x-2">Sahith Gandham</p>
+    </div>
+    <div class="team-card_load_extreme_descripion">
+        <p class=" text-gray-700 text-left text-sm translate-x-2">Head of Logistics<br> Asistant Developer<br>Judge</p>
     </div>
 </div>
 </section>

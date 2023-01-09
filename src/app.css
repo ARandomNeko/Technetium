@@ -260,8 +260,40 @@
         backdrop-filter: blur(6.2px);
         -webkit-backdrop-filter: blur(6.2px);
         transition: all 0.5s 0.1s;
-
-
         box-shadow: -15px -15px 30px rgb(25, 25, 25),
                     15px 15px 30px rgb(60, 60, 60);
        }
+
+       /*SAHITH TEAM CARD*/
+       .team-card-sahith {
+        width: 310px;
+        height: 140px;
+        background: rgb(0, 0, 0);
+        box-shadow: 0 1px 25px rgba(0,0,0,0.2);
+        position: absolute;
+        transition: all .5s .1s;
+        top: 50%;
+        left: 50%;
+        padding: 12px 10px;
+        border-radius: 5px;
+        
+      }
+       
+       
+       
+       
+       
+         .team-card-sahith:hover{
+          scale: 1.05;
+          background-color: #312c2c;
+          
+  
+          background: rgba(44, 153, 255, 0.63);
+          border-radius: 16px;
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+          backdrop-filter: blur(6.2px);
+          -webkit-backdrop-filter: blur(6.2px);
+          transition: all 0.5s 0.1s;
+          box-shadow: -15px -15px 30px rgb(25, 25, 25),
+                      15px 15px 30px rgb(60, 60, 60);
+         }
