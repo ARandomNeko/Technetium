@@ -244,12 +244,12 @@
         scale: 1.05;
         background-color: #312c2c;
         
-        /* From https://css.glass */
-        background: rgba(105, 25, 111, 0.63);
+
+        background: rgba(255, 55, 181, 0.63);
         border-radius: 16px;
         box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-        backdrop-filter: blur(7.3px);
-        -webkit-backdrop-filter: blur(7.3px);
+        backdrop-filter: blur(6.2px);
+        -webkit-backdrop-filter: blur(6.2px);
         transition: all 0.5s 0.1s;
 
 
