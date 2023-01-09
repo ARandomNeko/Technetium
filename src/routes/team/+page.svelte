@@ -1,1 +1,5 @@
-<h1 class="contain mx-auto text-gray-300">insert the team page here<br>use cards with pictures of everyone on them or smth </h1>
+<div class="team-card">
+    <div class="team-card_load"></div>
+    <div class="team-card_load_extreme_title"></div>
+    <div class="team-card_load_extreme_descripion"></div>
+</div>
