@@ -1,6 +1,7 @@
+
+<!-- Sreenidhi Technetium-->
 <div class="mb-0 bg-black"  >
 
-    <!-- Section: Design Block -->
     <section class="mb-20 translate-y-12">
      
   
@@ -42,7 +43,10 @@
         </div>
       </div>
     </section>
-    <!-- Section: Design Block -->
   
   </div>
-  <!-- Container for demo purpose -->
+  
+  <!-- Content cards  -->
+  <div>
+
+  </div>
