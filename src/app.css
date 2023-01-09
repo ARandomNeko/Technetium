@@ -169,7 +169,7 @@
 
       .team-card {
         width: 310px;
-        height: 130px;
+        height: 140px;
         background: rgb(29, 29, 29);
         box-shadow: 0 1px 25px rgba(0,0,0,0.2);
         position: absolute;
@@ -191,7 +191,7 @@
         background-size: 200% 100%;
         background-position: 100% 0;
         animation: load89234 2s infinite;
-        transform: translate(5%, 15%);
+        transform: translate(5%, 25%);
       }
       
       .team-card_load_extreme_title {
@@ -210,7 +210,7 @@
       
       .team-card_load_extreme_descripion {
         width: 180px;
-        height: 70px;
+        height: 78px;
         position: relative;
         float: right;
         border-radius: 5px;
