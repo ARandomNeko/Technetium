@@ -1,6 +1,6 @@
 
 <!-- Sreenidhi Technetium-->
-<div class="mb-0 bg-black"  >
+<div class="-mb-2 bg-black"  >
 
     <section class="mb-20 translate-y-10">
      
