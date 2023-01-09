@@ -43,8 +43,8 @@ import "../app.css";
 
 <slot/>
 
-<div class =" container mx-auto  ">
-     <footer class =" bg-gray-900 text-right"> 
+<div class =" bg-gray-900 container mx-auto  ">
+     <footer class ="  text-right"> 
      <a href="/">Technetium 2023.</a>
      </footer>
 </div>
