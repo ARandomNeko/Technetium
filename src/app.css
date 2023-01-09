@@ -173,11 +173,12 @@
         background: rgb(29, 29, 29);
         box-shadow: 0 1px 25px rgba(0,0,0,0.2);
         position: absolute;
-        transform: translate(-50%, -50%);
+        
         top: 50%;
         left: 50%;
         padding: 12px 10px;
         border-radius: 5px;
+        
       }
       
       .team-card_load {
@@ -237,4 +238,11 @@
         box-shadow: 15px 15px 30px rgb(25, 25, 25),
                     -15px -15px 30px rgb(60, 60, 60);
        }
+       .team-card:hover{
+        scale: 1.05;
+        transition: scale .5s;
+        box-shadow: 15px 15px 30px rgb(25, 25, 25),
+                    -15px -15px 30px rgb(60, 60, 60);
        
+        
+       }
