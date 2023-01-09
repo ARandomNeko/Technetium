@@ -170,7 +170,7 @@
       .team-card {
         width: 310px;
         height: 140px;
-        background: rgb(29, 29, 29);
+        background: rgb(0, 0, 0);
         box-shadow: 0 1px 25px rgba(0,0,0,0.2);
         position: absolute;
         
@@ -241,8 +241,9 @@
        .team-card:hover{
         scale: 1.05;
         transition: scale .5s;
-        box-shadow: 15px 15px 30px rgb(25, 25, 25),
-                    -15px -15px 30px rgb(60, 60, 60);
+        box-shadow: -15px -15px 30px rgb(25, 25, 25),
+                    15px 15px 30px rgb(60, 60, 60);
+        
        
         
        }

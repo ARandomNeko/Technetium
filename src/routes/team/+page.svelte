@@ -1,5 +1,5 @@
 <div class="bg-black mb-0 py-40">
-<section class="bg-black py-40 mx-auto">
+<section class=" py-40 mx-auto">
 <div class="team-card py-12 " style="transform: translate(-750px,-275px);" >
     <div class="team-card_load"></div>
     <div class="team-card_load_extreme_title">
