@@ -16,7 +16,7 @@
               </p>
             </div>
             <div class="mb-8 lg:mb-0">
-              <div class="block rounded-lg shadow-lg bg-gray-800 px-2 py-12 md:px-12">
+              <div class="block rounded-lg shadow-lg bg-gray-800 px-2 py-12 md:px-12 translate-y-12">
                 <form >
                   <div class="grid md:grid-cols-2 md:gap-6">
                     <div class="mb-1">
