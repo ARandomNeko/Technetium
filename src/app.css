@@ -173,7 +173,7 @@
         background: rgb(0, 0, 0);
         box-shadow: 0 1px 25px rgba(0,0,0,0.2);
         position: absolute;
-        
+        transition: all .5s .1s;
         top: 50%;
         left: 50%;
         padding: 12px 10px;
@@ -193,6 +193,8 @@
         background-position: 100% 0;
         animation: load89234 2s infinite;
         transform: translate(5%, 25%);
+        -webkit-transition: padding 2s;
+
       }
       
       .team-card_load_extreme_title {
@@ -238,12 +240,19 @@
         box-shadow: 15px 15px 30px rgb(25, 25, 25),
                     -15px -15px 30px rgb(60, 60, 60);
        }
-       .team-card:hover{
+     .team-card:hover{
         scale: 1.05;
-        transition: scale .5s;
+        background-color: #312c2c;
+        
+        /* From https://css.glass */
+        background: rgba(105, 25, 111, 0.63);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(7.3px);
+        -webkit-backdrop-filter: blur(7.3px);
+        transition: all 0.5s 0.1s;
+
+
         box-shadow: -15px -15px 30px rgb(25, 25, 25),
                     15px 15px 30px rgb(60, 60, 60);
-        
-       
-        
        }
