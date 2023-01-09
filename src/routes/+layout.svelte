@@ -44,8 +44,11 @@ import "../app.css";
 <slot/>
 
 <div class ="bg-slate-900   ">
-     <footer class =" py-12 text-right"> 
-     <a class="px-24 text-gray-400" href="/">Technetium 2023.</a>
+     <footer class =" py-12 text-right px-24"> 
+     <a class=" text-gray-400" href="/">Technetium 2023.</a>
+     <p>
+     Made with SvelteKit 
+     </p>
      </footer>
 </div>
 
@@ -58,8 +61,6 @@ import "../app.css";
         place-items: left;
       }
 
-     body{
-      background-color: rgb(15 23 42)
-     }
+    
  
  </style>
