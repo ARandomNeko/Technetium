@@ -44,7 +44,7 @@ import "../app.css";
 <slot/>
 
 <div class =" bg-gray-900 container mx-auto  ">
-     <footer class ="  text-right"> 
+     <footer class =" py-12 px-12 text-right"> 
      <a href="/">Technetium 2023.</a>
      </footer>
 </div>
