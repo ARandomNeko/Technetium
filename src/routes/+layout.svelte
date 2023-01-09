@@ -51,7 +51,9 @@ import "../app.css";
 
 
 <style>
-    
+    body{
+    background-color: bg-gray-900;
+    }
     header {
         display: grid;
 
