@@ -134,7 +134,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    I forgot
+                                   Judge & I forgot
                                 </div>
 
                                 <!-- Social Icons -->
@@ -221,7 +221,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Founder 
+                                    Founder & Judge
                                 </div>
 
                                 <!-- Social Icons -->
