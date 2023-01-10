@@ -9,15 +9,15 @@
         <div class="container mx-auto xl:px-32">
           <div class="grid lg:grid-cols-2 gap-12 items-center">
             <div class="mt-12 lg:mt-0 py-4">
-              <h1 class="typing-title xs:text-4xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white">Sreenidhi Technetium </h1>
-              <h1 class=" text-xl xs:text-3xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">The first student led hackathon in Hyderabad</h1>
+              <h1 class="typing-title xs:text-3xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white">Sreenidhi Technetium </h1>
+              <h1 class=" text-xl xs:text-2xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">The first student led hackathon in Hyderabad</h1>
               <p class="text-gray-300">
                 Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
                 The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
               </p>
             </div>
             <div class="mb-6 md:-mr-6 lg:mr-0 translate-y-6">
-              <div class="block rounded-lg shadow-lg bg-gray-800 px-12 py-8  translate-y-4">
+              <div class="block rounded-lg shadow-lg bg-gray-800 px-12 py-8  translate-y-7">
                 <form >
                   <div class="grid md:grid-cols-2 md:gap-2 translate-y-3">
                     <div class="mb-1">
