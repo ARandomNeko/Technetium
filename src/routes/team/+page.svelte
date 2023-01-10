@@ -22,7 +22,7 @@
 <div class="team-card-sahith py-12 border-2 border-blue-400" style="transform: translate(-350px,-275px);" >
     <div class="team-card_load"></div>
     <div class="team-card_load_extreme_title">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Sahith Gandham</p>
+        <p class=" text-gray-700 text-left text-sm translate-x-2">Sahithi Gandham</p>
     </div>
     <div class="team-card_load_extreme_descripion">
         <p class=" text-gray-700 text-left text-sm translate-x-2">Head of Logistics<br> Asistant Developer<br>Judge</p>
