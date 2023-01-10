@@ -1,24 +1,22 @@
 
 
-<div class="bg-black mb-0 py-40">
-<section class=" py-40 mx-auto">
-<div class="team-card-ritu py-12 border-2 border-pink-400   " style="transform: translate(-750px,-275px);" >
-    <div class="team-card_load"></div>
-    <div class="team-card_load_extreme_title">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Rituparan Reddy</p>
-    </div>
-    <div class="team-card_load_extreme_descripion">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Lead developer<br> Problem Setter<br>Judge</p>
-    </div>
-</div>
-<div class="team-card-sahith py-12 border-2 border-blue-400" style="transform: translate(-350px,-275px);" >
-    <div class="team-card_load"></div>
-    <div class="team-card_load_extreme_title">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Sahith Gandham</p>
-    </div>
-    <div class="team-card_load_extreme_descripion">
-        <p class=" text-gray-700 text-left text-sm translate-x-2">Head of Logistics<br> Asistant Developer<br>Judge</p>
-    </div>
-</div>
-</section>
-</div>
+<figure class="md:flex  rounded-xl p-8 md:p-0 bg-slate-800">
+  <img class="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/sarah-dayan.jpg" alt="" width="384" height="512">
+  <div class="pt-6 md:p-8 text-left md:text-left space-y-4">
+    <blockquote>
+      <p class="text-lg font-medium">
+        “Tailwind CSS is the only framework that I've seen scale
+        on large teams. It’s easy to customize, adapts to any design,
+        and the build size is tiny.”
+      </p>
+    </blockquote>
+    <figcaption class="font-medium">
+      <div class="text-sky-400">
+        Sarah Dayan
+      </div>
+      <div class="text-slate-500">
+        Staff Engineer, Algolia
+      </div>
+    </figcaption>
+  </div>
+</figure>
