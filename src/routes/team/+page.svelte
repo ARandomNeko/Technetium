@@ -122,7 +122,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?fit=clamp&w=400&h=400&q=80">
+                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062338891090235473/IMG_2804.jpg">
                             </a>
 
                             <!-- Details -->
@@ -166,7 +166,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?fit=clamp&w=400&h=400&q=80">
+                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062339271228391424/IMG_2516.jpg">
                             </a>
 
                             <!-- Details -->
