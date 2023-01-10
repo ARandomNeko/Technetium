@@ -116,41 +116,41 @@
 
 
                     <!-- Member   #!3 -->
-                    <div class="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                    <div class=" py-4 w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-700 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] bg-gray-800  hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://images.unsplash.com/photo-1634193295627-1cdddf751ebf?fit=clamp&w=400&h=400&q=80">
+                                    src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?fit=clamp&w=400&h=400&q=80">
                             </a>
 
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-gray-900 text-xl font-bold mb-1">
-                                    Kenji Milton
+                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+                                    Vaibhav Reddy
                                 </h1>
 
                                 <!-- Title -->
-                                <div class="text-gray-700 font-light mb-2">
-                                    Team Memeber
+                                <div class="text-slate-400 font-light mb-2">
+                                    I forgot
                                 </div>
 
                                 <!-- Social Icons -->
                                 <div class="flex items-center justify-center opacity-50 hover:opacity-100
                                 transition-opacity duration-300">
                                     <!-- Linkedin -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
+                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
+                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
                                     </a>
 
                                     <!-- Twitter -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
+                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
+                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
                                     </a>
 
                                     <!-- Instagram -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-orange-50 h-10 w-10">
+                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
                                         <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
                                     </a>
                                 </div>
@@ -158,42 +158,43 @@
                         </div>
                     </div>
 
+
                     <!-- Member   #!4 -->
-                    <div class="w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4">
+                    <div class=" py-4 w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-700 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)] bg-gray-800  hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://images.unsplash.com/photo-1635003913011-95971abba560?fit=clamp&w=400&h=400&q=80">
+                                    src="https://images.unsplash.com/photo-1634926878768-2a5b3c42f139?fit=clamp&w=400&h=400&q=80">
                             </a>
 
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-gray-900 text-xl font-bold mb-1">
-                                    Doesn't matter
+                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+                                    Vivan Kumar
                                 </h1>
 
                                 <!-- Title -->
-                                <div class="text-gray-700 font-light mb-2">
-                                    Will be fired
+                                <div class="text-slate-400 font-light mb-2">
+                                    God or smth 
                                 </div>
 
                                 <!-- Social Icons -->
                                 <div class="flex items-center justify-center opacity-50 hover:opacity-100
                                 transition-opacity duration-300">
                                     <!-- Linkedin -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
+                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
+                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
                                     </a>
 
                                     <!-- Twitter -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-400 mx-auto mt-2"></i>
+                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
+                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
                                     </a>
 
                                     <!-- Instagram -->
-                                    <a href="  #!" class="flex rounded-full hover:bg-orange-50 h-10 w-10">
+                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
                                         <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
                                     </a>
                                 </div>
