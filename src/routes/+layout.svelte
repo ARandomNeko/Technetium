@@ -61,9 +61,6 @@ import "../app.css";
         place-items: left;
       }
 
-      slot{
-        min-height: fit-content;
-      }
 
     
  
