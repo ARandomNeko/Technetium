@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 
 <!-- Page Container -->
-<div class="flex items-center justify-center min-h-fit bg-black py-12">
+<div class="flex items-center justify-center sm:min-h-fit bg-black py-12">
     <div class="flex flex-col">
         <!-- Notes -->
        
