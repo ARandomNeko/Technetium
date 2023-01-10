@@ -61,6 +61,10 @@ import "../app.css";
         place-items: left;
       }
 
+      body{
+        min-height: fit-content;
+      }
+
     
  
  </style>
