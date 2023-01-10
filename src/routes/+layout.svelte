@@ -61,7 +61,7 @@ import "../app.css";
         place-items: left;
       }
 
-      body{
+      slot{
         min-height: fit-content;
       }
 
