@@ -1,3 +1,5 @@
+
+
 <div class="bg-black mb-0 py-40">
 <section class=" py-40 mx-auto">
 <div class="team-card-ritu py-12 border-2 border-pink-400   " style="transform: translate(-750px,-275px);" >
