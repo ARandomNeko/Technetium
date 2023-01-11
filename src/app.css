@@ -198,3 +198,12 @@ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(1.2px);
 -webkit-backdrop-filter: blur(5.8px);
 }
+
+.glass-content{
+  /* From https://css.glass */
+background-image: linear-gradient(to bottom right, rgb(43, 42, 42), rgb(15, 14, 14));
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(3px);
+
+}

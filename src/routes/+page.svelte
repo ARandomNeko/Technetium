@@ -47,12 +47,12 @@
   </div>
   
   <!-- Content cards  -->
-  <div class="transform-gpu flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: url('https://images.unsplash.com/photo-1670876824360-55072d876400?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1159&q=80');background-repeat: no-repeat;  background-size: cover;">
+  <div class="transform-gpu flex items-center xs:min-height-fit justify-center bg-black  py-12 ">
     <div class="flex flex-col  ">
       <div class="container max-w-7xl px-4">
         <!-- Section Header -->
         <div class=" flex flex-wrap justify-right text-left py-2">
-            <div class="glass w-full lg:w-5/12 px-4 hover:-translate-x-2 bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 ">
+            <div class="glass-content w-full lg:w-5/12 px-4 hover:-translate-x-2 bg-gray-800  hover:rounded-xl hover:drop-shadow-[0_35px_35px_rgba(73,73,73,1)] transition ease-in-out duration-500 ">
                 <!-- Header -->
                 <h1 class="text-gray-100 text-4xl font-bold py-4 ">
                     Themes & Events
