@@ -14,7 +14,7 @@
                 <div class=" flex flex-wrap justify-center text-center py-2">
                     <div class="glass w-full lg:w-6/12 px-4">
                         <!-- Header -->
-                        <h1 class="text-gray-100 text-4xl font-bold mb-8">
+                        <h1 class="text-gray-100 text-4xl font-bold py-8">
                             Meet the Team
                         </h1>
 
