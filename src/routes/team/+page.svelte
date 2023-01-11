@@ -26,9 +26,9 @@
                 </div>
 
                 <!-- Team Members -->
-                <div class="flex flex-wrap glass">
+                <div class="flex flex-wrap ">
                     <!--  Member 1 -->
-                    <div class=" py-4 w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-6 px-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
