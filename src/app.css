@@ -181,7 +181,7 @@
        }
      
      
-glass{
+.glass{
   /* From https://css.glass */
 background: rgba(25, 25, 25, 0.45);
 border-radius: 16px;
