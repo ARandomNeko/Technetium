@@ -252,7 +252,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://unsplash.com/photos/QSeqxmpOT3Y">
+                                    src="https://images.unsplash.com/photo-1673337615896-a849cef919e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=737&q">
                             </a>
 
                             <!-- Details -->
@@ -297,7 +297,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://unsplash.com/photos/QSeqxmpOT3Y">
+                                    src="https://images.unsplash.com/photo-1673337615896-a849cef919e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=737&q=80">
                             </a>
 
                             <!-- Details -->
@@ -427,7 +427,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://unsplash.com/photos/QSeqxmpOT3Y">
+                                    src="https://images.unsplash.com/photo-1673337615896-a849cef919e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=737&q=80">
                             </a>
 
                             <!-- Details -->
