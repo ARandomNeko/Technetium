@@ -19,7 +19,7 @@
                         </h1>
 
                         <!-- Description -->
-                        <p class="text-gray-400 text-lg font-light">
+                        <p class="text-black text-lg font-light">
                             With over 100 years of combined experience, we've got a well-seasoned team at the helm.
                         </p>
                     </div>
