@@ -23,7 +23,7 @@ import "../app.css";
              <a href="/team" class="block py-2 pl-3 pr-4   rounded md:border-0  md:p-0   text-gray-400 md:  hover:text-white   hover:bg-gray-700 md:  hover:bg-transparent">Team</a>
            </li>
            <li>
-             <a href="#!" class="block py-2 pl-3 pr-4   rounded md:border-0  md:p-0   text-gray-400 md:  hover:text-white   hover:bg-gray-700 md:  hover:bg-transparent">Services</a>
+             <a href="itinerary" class="block py-2 pl-3 pr-4   rounded md:border-0  md:p-0   text-gray-400 md:  hover:text-white   hover:bg-gray-700 md:  hover:bg-transparent">Itinerary</a>
            </li>
            <li>
              <a href="#!" class="block py-2 pl-3 pr-4   rounded md:border-0 md:p-0   text-gray-400 md:  hover:text-white   hover:bg-gray-700 md:  hover:bg-transparent">Pricing</a>
