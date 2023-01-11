@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 
 <!-- Page Container -->
-<div class="flex items-center xs:min-height-fit justify-center  py-12 rotate-90" style = "background-image: url('https://images.unsplash.com/photo-1670876824360-55072d876400?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1159&q=80');background-repeat: no-repeat;  background-size: cover;">
+<div class="flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: url('https://images.unsplash.com/photo-1670876824360-55072d876400?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1159&q=80');background-repeat: no-repeat;  background-size: cover;">
     <div class="flex flex-col  ">
         <!-- Notes -->
        
