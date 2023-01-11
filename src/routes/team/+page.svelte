@@ -9,7 +9,7 @@
 
         <div class="flex flex-col py-4">
             <!-- Meet the Team -->
-            <div class="container max-w-7xl px-4">
+            <div class="glass container max-w-7xl px-4">
                 <!-- Section Header -->
                 <div class="flex flex-wrap justify-center text-center mb-2">
                     <div class="w-full lg:w-6/12 px-4">
