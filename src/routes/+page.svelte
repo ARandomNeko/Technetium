@@ -17,7 +17,7 @@
               </p>
             </div>
             <div class="mb-6 md:-mr-6 lg:mr-0 translate-y-6">
-              <div class="block rounded-lg shadow-lg bg-gray-800 px-12 py-8  translate-y-7">
+              <div class="glass-register rounded-lg shadow-lg bg-gray-800 px-12 py-8  translate-y-7">
                 <form >
                   <div class="grid md:grid-cols-2 md:gap-2 translate-y-3">
                     <div class="mb-1">
@@ -47,6 +47,27 @@
   </div>
   
   <!-- Content cards  -->
-  <div>
+  <div class="transform-gpu flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: url('https://images.unsplash.com/photo-1670876824360-55072d876400?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1159&q=80');background-repeat: no-repeat;  background-size: cover;">
+    <div class="flex flex-col  ">
+      <div class="container max-w-7xl px-4">
+        <!-- Section Header -->
+        <div class=" flex flex-wrap justify-right text-left py-2">
+            <div class="glass w-full lg:w-5/12 px-4 hover:-translate-x-2 bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 ">
+                <!-- Header -->
+                <h1 class="text-gray-100 text-4xl font-bold py-4 ">
+                    Themes & Events
+                </h1>
 
+                <!-- Description -->
+                <p class="text-gray-300 text-2xl font-light">
+                  Over the course of the weekend participate in a multitude of events related to STEM & sustainability
+                </p>
+            </div>
+            <div class="glass w-full">
+
+
+            </div>
+        </div>
+    </div>
+  </div>
   </div>
