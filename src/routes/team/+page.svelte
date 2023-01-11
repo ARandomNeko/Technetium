@@ -14,7 +14,7 @@
                 <div class=" flex flex-wrap justify-center text-center py-2">
                     <div class="glass w-full lg:w-6/12 px-4">
                         <!-- Header -->
-                        <h1 class="text-gray-100 text-4xl font-bold mb-8 mt-2">
+                        <h1 class="text-gray-100 text-4xl font-bold mb-4 mt-2">
                             Meet the Team
                         </h1>
 
@@ -27,6 +27,7 @@
 
                 <!-- Team Members -->
                 <div class="flex flex-wrap place-content-center py-4">
+
                     <!--  Member 1 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
@@ -114,8 +115,6 @@
                         </div>
                     </div>
 
-
-
                     <!--  Member 3 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
                         <div class="flex flex-col">
@@ -159,7 +158,6 @@
                         </div>
                     </div>
 
-
                     <!--  Member 4 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
@@ -202,6 +200,7 @@
                             </div>
                         </div>
                     </div>
+
                     <!--  Member 5 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
@@ -289,8 +288,6 @@
                         </div>
                     </div>
 
-
-
                     <!--  Member 7 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
                         <div class="flex flex-col">
@@ -333,7 +330,6 @@
                             </div>
                         </div>
                     </div>
-
 
                     <!--  Member 8 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
@@ -421,6 +417,7 @@
                             </div>
                         </div>
                     </div>
+
                     <!--  Member 10 -->
                     <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
@@ -464,11 +461,12 @@
                         </div>
                     </div>
 
-                </div>
-                    </div>
-                
-                
+
+
+
                 </div>
             </div>
         </div>
+    </div>
+</div>
     
