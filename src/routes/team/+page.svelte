@@ -78,7 +78,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062422860997603428/IMG-1021.jpg">
+                                    src="https://media.discordapp.net/attachments/809092137387032668/1062422860997603428/IMG-1021.jpg?width=687&height=687">
                             </a>
 
                             <!-- Details -->
