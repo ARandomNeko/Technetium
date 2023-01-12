@@ -47,7 +47,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Lead developer & Judge
+                                    Head of IT
                                 </div>
 
                                 <!-- Social Icons -->
@@ -90,7 +90,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Head of logistics & Asistant Developer
+                                    Executive Director
                                 </div>
 
                                 <!-- Social Icons -->
@@ -133,7 +133,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                   Judge & I forgot
+                                   Head of Logistics
                                 </div>
 
                                 <!-- Social Icons -->
@@ -176,7 +176,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    God or smth 
+                                    Gay
                                 </div>
 
                                 <!-- Social Icons -->
@@ -220,7 +220,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Founder & Judge
+                                    Co-President
                                 </div>
 
                                 <!-- Social Icons -->
@@ -263,7 +263,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Design & Branding
+                                    Head of design 
                                 </div>
 
                                 <!-- Social Icons -->
@@ -306,7 +306,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Social Media & Marketing
+                                    Head of Marketing
                                 </div>
 
                                 <!-- Social Icons -->
@@ -349,7 +349,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Finance??
+                                    Head of Outreach
                                 </div>
 
                                 <!-- Social Icons -->
