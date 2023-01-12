@@ -186,7 +186,7 @@
 background: rgba(25, 25, 25, 0.45);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-backdrop-filter: blur(3px);
+backdrop-filter: blur(2.5px);
 
 }
 
@@ -205,5 +205,14 @@ background-image: linear-gradient(to bottom right, rgb(43, 42, 42), rgb(15, 14, 
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(3px);
+
+}
+
+.glass:hover{
+  /* From https://css.glass */
+background: rgba(25, 25, 25, 0.45);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(7px);
 
 }

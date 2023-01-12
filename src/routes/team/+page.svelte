@@ -41,7 +41,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Rituparan Reddy
                                 </h1>
 
@@ -84,7 +84,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Sahith Gandham
                                 </h1>
 
@@ -127,7 +127,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Vaibhav Reddy
                                 </h1>
 
@@ -170,7 +170,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Vivan Kumar
                                 </h1>
 
@@ -214,7 +214,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Samkit Parak
                                 </h1>
 
@@ -257,7 +257,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Nishka Gupta
                                 </h1>
 
@@ -300,7 +300,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Palak Agarwal
                                 </h1>
 
@@ -343,7 +343,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Sideesh
                                 </h1>
 
@@ -387,7 +387,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Yash Gupta
                                 </h1>
 
@@ -430,7 +430,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Akshith Vireddy
                                 </h1>
 
@@ -472,7 +472,7 @@
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
-                                <h1 class="text-slate-300 text-xl font-bold mb-1">
+<h1 class="text-blue-500 text-xl font-bold mb-1">
                                     Saharsh
                                 </h1>
 
