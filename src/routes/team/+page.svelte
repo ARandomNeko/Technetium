@@ -20,7 +20,7 @@
 
                         <!-- Description -->
                         <p class="text-gray-300 text-2xl font-light">
-                            With over 100 years of combined experience, we've got a well-seasoned team at the helm.
+                            With over 100 years of combined experience, we've got a well-seasoned team at the helm.<br>
                         </p>
                     </div>
                 </div>
