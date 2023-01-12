@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 
 <!-- Page Container -->
-<div class="transform-gpu flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: url('https://images.unsplash.com/photo-1647007133721-5d3a44430cd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');background-repeat: no-repeat;  background-size: cover;">
+<div class=" flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: url('https://images.unsplash.com/photo-1647007133721-5d3a44430cd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');background-repeat: no-repeat;  background-size: cover;">
     <div class="flex flex-col  ">
         <!-- Notes -->
        
