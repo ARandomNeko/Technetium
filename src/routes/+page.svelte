@@ -1,25 +1,27 @@
 
 <!-- Sreenidhi Technetium-->
-<div class="-mb-2 bg-black"  >
+<div class=" bg-black"  >
 
-    <section class="mb-20 translate-y-10">
+    <section class="translate-y-10">
      
   
       <div style = "background-image: url('https://wallpapersmug.com/download/1600x900/dbc266/texture-dark-surface.jpg');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
         <div class="container mx-auto xl:px-32">
-          <div class="grid lg:grid-cols-2 gap-12 items-center">
+          <div class="items-center">
             <div class="mt-12 lg:mt-0 py-4">
               <h1 class="typing-title text-xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white">Sreenidhi Technetium </h1>
-              <h1 class="  text-xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">The first student led hackathon in Hyderabad</h1>
+              <h1 class="text-xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">The first student led hackathon in Hyderabad</h1>
+              
+            </div>
+            <div class="grid lg:grid-cols-2">
               <p class="text-gray-300">
                 Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
                 The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
               </p>
-            </div>
-            <div class="mb-6 md:-mr-6 lg:mr-0 translate-y-6">
-              <div class="glass-register rounded-lg shadow-lg bg-gray-800 px-12 py-8  translate-y-7">
+            <div class="glass-register rounded-lg shadow-lg bg-gray-800 -translate-y-12">
+              <div class="py-4 px-4">
                 <form >
-                  <div class="grid md:grid-cols-2 md:gap-2 translate-y-3">
+                  <div class="grid md:grid-cols-2 md:gap-2 ">
                     <div class="mb-1">
                       <input type="text" class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="First name"/>
                     </div>
@@ -39,6 +41,7 @@
                 </form>
               </div>
             </div>
+          </div>
           </div>
         </div>
       </div>
