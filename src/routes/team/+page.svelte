@@ -59,8 +59,8 @@
                                     </a>
 
                                     <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
+                                    <a href="https://www.twitch.tv/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
+                                        <i class="mdi mdi-twitch text-blue-300 mx-auto mt-2"></i>
                                     </a>
 
                                     <!-- Instagram -->
