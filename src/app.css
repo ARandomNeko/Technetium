@@ -183,7 +183,7 @@
      
 .glass{
   /* From https://css.glass */
-background: rgba(25, 25, 25, 0.45);
+background: rgba(54, 91, 109 0.45);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(3px);
