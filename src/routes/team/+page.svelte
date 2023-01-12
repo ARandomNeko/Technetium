@@ -90,7 +90,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Executive Director
+                                   Co-Founder & IT
                                 </div>
 
                                 <!-- Social Icons -->
@@ -176,7 +176,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Gay
+                                    Co-Founder & Executive director
                                 </div>
 
                                 <!-- Social Icons -->
@@ -220,7 +220,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Co-President
+                                    Co-Founder & Executive Director
                                 </div>
 
                                 <!-- Social Icons -->
