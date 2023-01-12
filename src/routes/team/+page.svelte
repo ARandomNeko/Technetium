@@ -7,14 +7,14 @@
         <!-- Notes -->
        
 
-        <div class="flex flex-col py-4 rounded-3xl" style = "background-image: url('https://images.unsplash.com/photo-1647007133721-5d3a44430cd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');background-repeat: no-repeat;  background-size: cover;">
+        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('https://images.unsplash.com/photo-1647007133721-5d3a44430cd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');background-repeat: no-repeat;  background-size: cover;">
             <!-- Meet the Team -->
             <div class="container max-w-7xl px-4">
                 <!-- Section Header -->
                 <div class=" flex flex-wrap justify-center text-center py-2">
-                    <div class="glass w-full lg:w-6/12 px-4">
+                    <div class=" w-full lg:w-6/12 px-4">
                         <!-- Header -->
-                        <h1 class="text-gray-100 text-4xl font-bold mb-4 mt-2 translate-y-2">
+                        <h1 class="text-xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white">
                             Meet the Team
                         </h1>
 
