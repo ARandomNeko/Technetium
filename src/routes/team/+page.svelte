@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 
 <!-- Page Container -->
-<div class="transform-gpu flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: linear-gradient(to bottom, rgb(21, 47, 59), rgb(54, 91, 109));">
+<div class="transform-gpu flex items-center xs:min-height-fit justify-center  py-12 " style = "background-image: linear-gradient(to bottom right, rgb(45, 45, 45), rgb(0, 0, 0));">
     <div class="flex flex-col  ">
         <!-- Notes -->
        
