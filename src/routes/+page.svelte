@@ -18,7 +18,7 @@
                 Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
                 The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
               </p>
-            <div class="glass-register rounded-lg shadow-lg bg-gray-800 -translate-y-12">
+            <div class="glass-register rounded-lg shadow-lg bg-gray-800 lg:-translate-y-12">
               <div class="py-4 px-4">
                 <form >
                   <div class="grid md:grid-cols-2 md:gap-2 ">
