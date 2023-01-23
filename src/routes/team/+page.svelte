@@ -7,14 +7,14 @@
         <!-- Notes -->
        
 
-        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('https://images.unsplash.com/photo-1647007133721-5d3a44430cd9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8');background-repeat: no-repeat;  background-size: cover;">
+        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('src/lib/images/team.png');background-repeat: no-repeat;  background-size: cover;">
             <!-- Meet the Team -->
             <div class="container max-w-7xl px-4">
                 <!-- Section Header -->
                 <div class=" flex flex-wrap justify-center text-center py-2">
-                    <div class=" w-full lg:w-6/12 px-4">
+                    <div class=" glass-register w-full lg:w-6/12 px-4 ">
                         <!-- Header -->
-                        <h1 class="text-xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white">
+                        <h1 class="text-xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white ">
                             Meet the Team
                         </h1>
 
@@ -35,7 +35,8 @@
                             <a href="  #!" class="mx-auto">
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062337770481274930/Screenshot_2023-01-10_at_5.20.48_PM.png">
+                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062337770481274930/Screenshot_2023-01-10_at_5.20.48_PM.png"
+                                    alt="Ritu">
                             </a>
 
                             <!-- Details -->
@@ -78,6 +79,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                    alt="Sahith"
                                     src="https://media.discordapp.net/attachments/809092137387032668/1062422860997603428/IMG-1021.jpg?width=687&height=687">
                             </a>
 
@@ -121,6 +123,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                    alt="Vaibhav"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062400948724580432/IMG_7220.jpg">
                             </a>
 
@@ -164,6 +167,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                    alt="Vivan"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062339271228391424/IMG_2516.jpg">
                             </a>
 
@@ -208,6 +212,7 @@
                             <a href="  #!" class="mx-auto">
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                    alt="Samkit"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062400804872532038/64C99BDE-EB55-4F9C-A522-982E6CA2EA5C.jpg">
                             </a>
 
@@ -251,6 +256,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                alt="Nishka"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062739130611662868/Untitled_design_6.png">
                             </a>
 
@@ -294,6 +300,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                    alt="Palak"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062739014064558192/Untitled_design_7.png">
                             </a>
 
@@ -337,6 +344,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                alt="Sideesh"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062739543742218271/Untitled_design_4.png">
                             </a>
 
@@ -381,6 +389,7 @@
                             <a href="  #!" class="mx-auto">
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                alt="Yash"
                                     src="https://cdn.discordapp.com/attachments/809092137387032668/1062393875651625061/IMG_2809.png">
                             </a>
 
@@ -425,6 +434,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
+                                alt="Saharsh"
                                     src="">
                             </a>
 
