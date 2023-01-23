@@ -51,7 +51,7 @@
   
   <!-- Content cards  -->
   <div class="transform-gpu flex items-center xs:min-height-fit justify-center bg-black  py-12 pb-48 ">
-    <div class="flex flex-col  ">
+    <div class="grid ">
       <div class="container max-w-7xl px-4">
         <!-- Section Header -->
         <div class=" flex flex-wrap justify-right text-left py-2">
