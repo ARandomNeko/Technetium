@@ -1,7 +1,7 @@
 
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
-
+<!-- Sreenidhi Technetium-->
     <section class="translate-y-10">
      
   
@@ -15,8 +15,8 @@
             </div>
             <div class="grid lg:grid-cols-2">
               <p class="text-gray-300">
-                Technetium is a 3-day hackathon that brings together students from all over the city to collaborate on innovative projects and ideas. 
-                The event is focused on fostering a collaborative and inclusive environment where participants can learn from one another, share their skills, and build something meaningful. 
+                Technetium is a 3-day interschool hackathon which will bring together students from across the city of Hyderabad to showcase their skills, collaborate with like-minded individuals, and develop meaningful and innovative solutions to real-world problems. Our theme for the first edition of Technetium is Sustainability, and we encourage you to think outside the box and push the boundaries of what is possible. Whether you are a beginner or a seasoned professional, we have a place for you here. So grab your laptops, charge your devices, and prepare for a truly unforgettable experience!
+
               </p>
             <div class="glass-register rounded-lg shadow-lg bg-gray-800 lg:-translate-y-12">
               <div class="py-4 px-4">
@@ -47,30 +47,33 @@
       </div>
     </section>
   
-  </div>
+
   
-  <!-- Content cards  -->
-  <div class="transform-gpu flex items-center xs:min-height-fit justify-center bg-black  py-12 pb-48 ">
-    <div class="grid ">
-      <div class="container max-w-7xl px-4">
-        <!-- Section Header -->
-        <div class=" flex flex-wrap justify-right text-left py-2">
-            <div class="glass-content w-full lg:w-5/12 px-4 hover:-translate-x-2 bg-gray-800  hover:rounded-xl hover:drop-shadow-[0_20px_20px_rgba(73,73,73,1)] transition ease-in-out duration-500 ">
-                <!-- Header -->
-                <h1 class="text-gray-100 text-4xl font-bold py-4 ">
-                    Themes & Events
-                </h1>
-
-                <!-- Description -->
-                <p class="text-gray-300 text-2xl font-light">
-                  Over the course of the weekend participate in a multitude of events related to STEM & sustainability
-                </p>
-            </div>
-            <div class="glass w-full">
-
-
-            </div>
-        </div>
+  <!-- Themes and Events -->
+  <section>
+    <div class="transform-gpu flex items-center xs:min-height-fit justify-center bg-black  py-12 pb-48 ">
+      <div class="grid ">
+        <div class="container max-w-7xl px-4">
+          <!-- Section Header -->
+          <div class=" flex flex-wrap justify-right text-left py-2">
+              <div class="glass-content w-full lg:w-5/12 px-4 hover:-translate-x-2 bg-gray-800  hover:rounded-xl hover:drop-shadow-[0_20px_20px_rgba(73,73,73,1)] transition ease-in-out duration-500 ">
+                  <!-- Header -->
+                  <h1 class="text-gray-100 text-4xl font-bold py-4 ">
+                      Themes & Events
+                  </h1>
+  
+                  <!-- Description -->
+                  <p class="text-gray-300 text-2xl font-light">
+                    Over the course of the weekend participate in a multitude of events related to STEM & sustainability
+                  </p>
+              </div>
+              <div class="glass w-full">
+  
+  
+              </div>
+          </div>
+      </div>
     </div>
-  </div>
+  </section>
+  
   </div>
