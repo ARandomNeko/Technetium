@@ -7,7 +7,7 @@
         <!-- Notes -->
        
 
-        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('src/lib/images/team.png');background-repeat: no-repeat;  background-size: cover;">
+        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('https://hyapsecl.sirv.com/Images/Technetium/team.png');background-repeat: no-repeat;  background-size: cover;">
             <!-- Meet the Team -->
             <div class="container max-w-7xl px-4">
                 <!-- Section Header -->
