@@ -37,8 +37,8 @@
 
 <slot/>
 
-<footer class ="grid md:grid-cols-2 py-12 justify-items-center px-24 border-gray-600 bg-gray-900 "> 
-  
+<footer class =" py-12 justify-items-center px-24 border-gray-600 bg-gray-900 "> 
+  <div class="grid md:grid-cols-2 md:justify-items-center">
   <div>
     <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">
       Contact Us
@@ -63,12 +63,7 @@
             <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
         </a>
     </div>
-    <div>
-      <a class=" text-gray-400" href="/">Technetium 2023.</a>
-      <p>
-      By Rituparan Reddy 
-      </p>
-    </div>  
+ 
   </div>
   <div>
     <ul class="text-gray-300 text-2xl">
@@ -87,7 +82,17 @@
   </ul>
 
   </div>
-  
+  </div>
+
+     <div class="grid md:grid-cols-2 lg:px-24">
+      <div class="justify-items-start">
+      <a class=" text-gray-400  " href="/">Technetium 2023.</a>
+      <p>
+      By Rituparan Reddy 
+      </p>
+      </div>
+      
+    </div>  
 </footer>
 
 
