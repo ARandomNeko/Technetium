@@ -2,6 +2,7 @@
 
   import "@picocss/pico/css/pico.css";
   import "../app.css";
+  import "flowbite/dist/flowbite.css";
 </script>
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 

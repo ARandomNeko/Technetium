@@ -129,6 +129,7 @@
         overflow: hidden;
         border-right: 3px solid;
         font-family: monospace;
+
         
       }
       
@@ -209,11 +210,27 @@ backdrop-filter: blur(7px);
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-ul#remove {
-  list-style-type: none;
-  padding: 0;
+
+
+
+/* Component Needs */
+
+.pc-tab > input,
+.pc-tab section > div {
+  display: none;
 }
 
+#tab1:checked ~ section .tab1,
+#tab2:checked ~ section .tab2,
+#tab3:checked ~ section .tab3 {
+  display: block;
+}
 
-  
-.tabcontent{}
+#tab1:checked ~ nav .tab1,
+#tab2:checked ~ nav .tab2,
+#tab3:checked ~ nav .tab3 {
+  background-image: linear-gradient(to bottom right, rgb(37, 37, 37), black);
+  border-radius: 16px;
+  border:  rgba(255, 255, 255, 0);
+  -webkit-backdrop-filter: blur(5.8px);
+}
