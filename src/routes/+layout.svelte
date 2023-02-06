@@ -6,7 +6,7 @@
 </script>
 <link rel="stylesheet" href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css">
 
-<header class="py-12">
+<header class="py-12 ">
 
   <nav class=" px-2 sm:px-4 py-2.5 bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-600">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
