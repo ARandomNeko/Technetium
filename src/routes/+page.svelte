@@ -55,7 +55,7 @@
     <div style = "background-image: url('https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
-          <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
+          <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
             Themes and Events
           </h1>
             <p class="text-gray-300">

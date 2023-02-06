@@ -41,11 +41,11 @@
 <footer class =" py-12 justify-items-center px-24 border-gray-600 bg-gray-900 "> 
   <div class="grid md:grid-cols-2 md:justify-items-center">
   <div>
-    <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-blue-500 mb-1">
+    <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-white font-mono mb-1">
       Contact Us
     </h1>
 
-    <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-semibold text-gray-300 mb-1">
+    <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-semibold text-blue-500 mb-1">
       Technetium@sis.edu.in
     </h1>
 
