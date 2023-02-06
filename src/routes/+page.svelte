@@ -135,7 +135,65 @@
 </section>
 
   <!-- Why participate -->
+<section class="translate-y-10">
+  <div style = "background-image: url('https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
+    <div class="container mx-auto xl:px-32">
+      <div class="items-center ">
+          <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
+            Why Participate
+          </h1>
+          <p class="text-gray-300 mb-4">
+            Technetium will be full of opportunities to develop valuable new skills, sharpen your existing 
+            abilities, network with industry leaders, and collaborate with other students who are just as driven 
+            as you about making a difference in the world. 
+            <div class="grid md:grid-cols-2">
+              <div class="glass-content mt-4">
+                <div class="p-4">
+                  <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Networking
+                  </h1>
+                    <p class="text-gray-300">
+                      This event will bring together diverse group of students from different backgrounds, providing an opportunity to connect with like-minded individuals. Technetium participants are artists, storytellers, designers, and students with the passion to make a difference in the world. This hackathon provides the chance to expand networks of friends and classmates passionate about sustainability and technology.
 
+                </div>
+              </div>
+
+              <div class="glass-content mt-4">
+                <div class="p-4">
+                  <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Skill Development
+                  </h1>
+                    <p class="text-gray-300">
+                      Participating in a hackathon is an excellent opportunity to gain new skills and improve existing ones. Whether it is through our interactive workshops or unique set of challenges, we provide a platform for you to work on challenging projects and create something that matters, even if you have very little or prior experience with programming.
+                </div>
+              </div>
+
+              <div class="glass-content mt-4">
+                <div class="p-4">
+                  <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Prizes & Recognition
+                  </h1>
+                    <p class="text-gray-300">
+                      Although all participants will receive a Certificate of Participation, we will recognize the top-performing projects in each track with medals, trophies, and cash prizes thanks to our sponsors! We hope that this opportunity to gain recognition furthers your motivation to participate and showcase your skills. Please note that online and in-person projects will not be scored in the same pool.                </div>
+                </div>  
+
+                <div class="glass-content mt-4">
+                  <div class="p-4">
+                    <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
+                      Learnathon
+                    </h1>
+                      <p class="text-gray-300">
+                        The final day of Technetium will feature a learnathon: a day of learning which will begin with engaging presentations by a handful of speakers in the fields of tech and sustainability. After these sessions, you will have the opportunity to personally interact with a variety of industry experts in a networking fair and pitch your projects to receive personalized feedback from them.
+                  </div>  
+                </div>
+              </div>
+
+
+              
+      </div>
+    </div>
+  </div>        
+</section>
   
 
 
