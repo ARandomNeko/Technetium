@@ -7,14 +7,14 @@
         <!-- Notes -->
        
 
-        <div class="flex flex-col py-4 rounded-3xl mc" style = "background-image: url('https://hyapsecl.sirv.com/Images/Technetium/team.png');background-repeat: no-repeat;  background-size: cover;">
+        <div class=" py-4 rounded-3xl px-12" style = "background-image: url('https://hyapsecl.sirv.com/Images/Technetium/team.png');background-repeat: no-repeat;  background-size: cover;">
             <!-- Meet the Team -->
             <div class="container max-w-7xl px-4">
                 <!-- Section Header -->
-                <div class=" flex flex-wrap justify-center text-center py-2">
-                    <div class=" glass-register w-full lg:w-6/12 px-4 ">
+                <div class=" flex flex-wrap justify-center text-center py-4">
+                    <div class=" glass-register w-fit lg:w-6/12 px-4 ">
                         <!-- Header -->
-                        <h1 class="text-xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-1 text-white ">
+                        <h1 class="text-xl md:text-6xl xl:text-6xl font-bold font-mono tracking-tight mb-1 text-white ">
                             Meet the Team
                         </h1>
 
@@ -26,10 +26,10 @@
                 </div>
 
                 <!-- Team Members -->
-                <div class="flex flex-wrap place-content-center py-4">
+                <div class="grid md:grid-cols-3 justify-items-center py-4">
 
                     <!--  Member 1 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -74,7 +74,7 @@
                     </div>
 
                     <!--  Member 2 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -118,7 +118,7 @@
                     </div>
 
                     <!--  Member 3 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -162,7 +162,7 @@
                     </div>
 
                     <!--  Member 4 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -206,7 +206,7 @@
                     </div>
 
                     <!--  Member 5 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -251,7 +251,7 @@
                     </div>
 
                     <!--  Member 6 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -295,7 +295,7 @@
                     </div>
 
                     <!--  Member 7 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -339,7 +339,7 @@
                     </div>
 
                     <!--  Member 8 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -383,7 +383,7 @@
                     </div>
 
                     <!--  Member 9 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -429,7 +429,7 @@
 
                    
                     <!--  Member 11 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)] bg-gray-800  hover:rounded-xl rounded-r-md">
+                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
