@@ -180,10 +180,10 @@
                 <div class="glass-content mt-4">
                   <div class="p-4">
                     <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
-                      Learnathon
+                      Community Service 
                     </h1>
                       <p class="text-gray-300">
-                        The final day of Technetium will feature a learnathon: a day of learning which will begin with engaging presentations by a handful of speakers in the fields of tech and sustainability. After these sessions, you will have the opportunity to personally interact with a variety of industry experts in a networking fair and pitch your projects to receive personalized feedback from them.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                   </div>  
                 </div>
               </div>
