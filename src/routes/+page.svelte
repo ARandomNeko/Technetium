@@ -141,6 +141,14 @@
 
 
 <script>
+import { Tabs } from 'flowbite';
+
+/*
+* tabElements: array of tab objects
+* options: optional
+*/
+const tabs = new Tabs(tabElements, options);
+
 const tabElements = [
     {
         id: 'novice',
