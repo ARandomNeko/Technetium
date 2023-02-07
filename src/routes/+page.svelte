@@ -21,21 +21,23 @@
               </p>
             <div class="glass-register rounded-lg shadow-lg ">
               <div class="py-4 px-4">
-                <form class="" >
+                <form method="POST" 
+                      action="https://script.google.com/macros/s/AKfycbymryiKqECu9qbzebBMv-IPCM-sxIfsXNZX4j4fTx9TFOMNGHZiuAbGANgOAxF5lS31EA/exec"
+                >
                   <div class="grid md:grid-cols-2 md:gap-2 ">
                     <div class="mb-1">
-                      <input type="text" class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="First name"/>
+                      <input type="first-name" name="First-name"class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="First name"/>
                     </div>
                     <div class="mb-1">
-                      <input type="text" class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Last name"/>
+                      <input type="last-name" name="Last-name" class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Last name"/>
                     </div>
                   </div>
-                  <input type="email" class="translate-y-3 form-control block w-full px-3 py-1.5 mb-6 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Email address"/>
+                  <input type="email" name="Email" class="translate-y-3 form-control block w-full px-3 py-1.5 mb-6 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Email address"/>
                   <div class="form-check flex justify-center mb-1">
                     
                   </div>
                   <button 
-                  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light" class="translate-y-3 inline-block px-6 py-4  w-full bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
+                  type="submit" data-mdb-ripple="true" data-mdb-ripple-color="light" class="translate-y-3 inline-block px-6 py-4  w-full bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                   Notify me
                   </button>
                  
