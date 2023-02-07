@@ -42,6 +42,30 @@
                 </form>
               </div>
             </div>
+
+            <script>
+              const form = document.querySelector("#form")
+              const submitButton = document.querySelector("#submit")
+              const scriptURL = 'https://script.google.com/macros/s/AKfycbyO7FQIEDF_Y8sIVo15t4z9M2rHwtlknc6GcyC9mbjyKp9QE6ShH8TRT9P6RZOE-zOzag/exec'
+           
+              form.addEventListener('submit', e => {
+                submitButton.disabled = true
+                e.preventDefault()
+                let requestBody = new FormData(form)
+                fetch(scriptURL, { method: 'POST', body: requestBody})
+                  .then(response => {
+                     alert('Success!', response)
+                     submitButton.disabled = false
+                    })
+                  .catch(error => {
+                  alert('Error!', error.message)
+                    submitButton.disabled = false
+           
+                  }
+                  )
+              })
+           </script>
+
           </div>
           </div>
         </div>
