@@ -93,7 +93,7 @@
             
             <div class="glass-content">
               <div class="p-4">
-                <h1 class="text-3xl md:text-3xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Main Problem
                 </h1>
                   <p class="text-gray-300">
@@ -103,7 +103,7 @@
 
             <div class="glass-content ">
               <div class="p-4">
-                <h1 class="text-3xl md:text-3xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Robotics Showcase
                 </h1>
                   <p class="text-gray-300">
