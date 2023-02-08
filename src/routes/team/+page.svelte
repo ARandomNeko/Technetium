@@ -35,7 +35,7 @@
                             <a href="  #!" class="mx-auto">
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062337770481274930/Screenshot_2023-01-10_at_5.20.48_PM.png"
+                                src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(9).png" width="350" height="350"
                                     alt="Ritu">
                             </a>
 
@@ -43,12 +43,12 @@
                             <div class="text-center mt-6">
                                 <!-- Name -->
 <h1 class="text-blue-500 text-xl font-bold mb-1">
-                                    Rituparan Reddy
+                                    Samkit Parak
                                 </h1>
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Head of IT
+                                    Co-Founder & Executive Director 
                                 </div>
 
                                 <!-- Social Icons -->
@@ -80,7 +80,7 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Sahith"
-                                    src="https://media.discordapp.net/attachments/809092137387032668/1062422860997603428/IMG-1021.jpg?width=687&height=687">
+                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(11).png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
@@ -92,7 +92,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                   Co-Founder & IT
+                                   Co-Founder & Executive Director
                                 </div>
 
                                 <!-- Social Icons -->
@@ -124,19 +124,19 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Vaibhav"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062400948724580432/IMG_7220.jpg">
+                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(10).png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
 <h1 class="text-blue-500 text-xl font-bold mb-1">
-                                    Vaibhav Reddy
+                                    Vivan Kumar 
                                 </h1>
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                   Head of Logistics
+                                   Co-Founder & Executive Director
                                 </div>
 
                                 <!-- Social Icons -->
@@ -168,19 +168,19 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Vivan"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062339271228391424/IMG_2516.jpg">
+                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(8).png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
 <h1 class="text-blue-500 text-xl font-bold mb-1">
-                                    Vivan Kumar
+                                    Rituparan Reddy
                                 </h1>
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Co-Founder & Executive director
+                                    Head of IT
                                 </div>
 
                                 <!-- Social Icons -->
@@ -213,19 +213,19 @@
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Samkit"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062400804872532038/64C99BDE-EB55-4F9C-A522-982E6CA2EA5C.jpg">
+                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062400804872532038/64C99BDE-EB55-4F9C-A522-982E6CA2EA5C.jpg" width="350" height="350" >
                             </a>
 
                             <!-- Details -->
                             <div class="text-center mt-6">
                                 <!-- Name -->
 <h1 class="text-blue-500 text-xl font-bold mb-1">
-                                    Samkit Parak
+                                    Vaibhav Reddy
                                 </h1>
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Co-Founder & Executive Director
+                                    Head of Logistics
                                 </div>
 
                                 <!-- Social Icons -->
@@ -257,7 +257,7 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                 alt="Nishka"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062739130611662868/Untitled_design_6.png">
+                                src="https://hyapsecl.sirv.com/Images/Technetium/Untitled_design_6.png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
@@ -301,7 +301,7 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Palak"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062739014064558192/Untitled_design_7.png">
+                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled_design_7.png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
@@ -345,7 +345,7 @@
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                 alt="Sideesh"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062739543742218271/Untitled_design_4.png">
+                                src="https://hyapsecl.sirv.com/Images/Technetium/Untitled_design_4.png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
@@ -390,7 +390,7 @@
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                 alt="Yash"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062393875651625061/IMG_2809.png">
+                                src="https://hyapsecl.sirv.com/Images/Technetium/IMG_2809.jpg" width="350" height="350">
                             </a>
 
                             <!-- Details -->
