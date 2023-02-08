@@ -19,8 +19,8 @@
                         </h1>
 
                         <!-- Description -->
-                        <p class="text-gray-300 text-2xl font-light">
-                            With over 100 years of combined experience, we've got a well-seasoned team at the helm.<br>
+                        <p class="text-gray-300 text-xl font-light">
+                            This event is organised and run entirely by  dedicated high school students who recognize the potential of technology in solving current global challenges, and the role of students in shaping the future of our planet.<br>
                         </p>
                     </div>
                 </div>
