@@ -80,7 +80,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                   Robotics Showcase
                 </h1>
                   <p class="text-gray-300">
- Technetium will feature a cutting-edge robotics showcase where college students from the decade-old Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability by making processes more efficient, reducing waste, and aiding in the conservation of resources. With an exciting lineup of demonstrations and interactive displays, the showcase is a must-attend event for all.
+ Technetium will feature a cutting-edge robotics showcase where college students from the Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability. With an exciting lineup of demonstrations and interactive displays, the showcase is a event for all.
               
               </div>
             </div>
