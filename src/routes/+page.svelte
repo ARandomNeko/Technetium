@@ -160,7 +160,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                 </h1>
                   <p class="text-gray-300">
 Energy is the lifeblood of modern society. It powers homes, factories, and businesses. In this theme you will develop innovative solutions that make energy more efficient, reduce emissions, and improve energy access. 
-Examples: Solar energy harvesting device, energy efficiency program for commercial buildings
+<br>Examples: Solar energy harvesting device, energy efficiency program for commercial buildings
 </div>
             </div>
 
@@ -171,7 +171,7 @@ Examples: Solar energy harvesting device, energy efficiency program for commerci
                 </h1>
                   <p class="text-gray-300">
 Transportation is a necessity for economic and social activity around the world. Our challenge is to develop innovative solutions that reduce commuting times and increase efficiency of transportation systems. 
-Examples: Autonomous vehicle routing system, smart transport network for developing countries.
+<br>Examples: Autonomous vehicle routing system, smart transport network for developing countries.
               
               </div>
             </div>
