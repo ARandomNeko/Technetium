@@ -50,13 +50,16 @@
   
 
   
-  <!-- Themes and Events -->
-  <section class="translate-y-10">
+<!--events -->
+
+
+
+      <section class="translate-y-10">
     <div style = "background-image: url('https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
           <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
-            Themes and Events
+            Events
           </h1>
             <p class="text-gray-300">
               Participants are encouraged to use technology and innovative thinking to tackle pressing environmental challenges such as climate change, waste reduction, and renewable energy. Through collaboration and experimentation, participants will work towards building a more sustainable future for all.
@@ -112,19 +115,18 @@ Each team will be working on a single main project to submit to the hackathon ju
       <div class="tab1">
         <h1 class="text-xl">Ethical Hacking</h1>
         <p>This event will feature a workshop where you will learn how to improve a website’s cybersecurity through ethical hacking. By simulating a real-world cyber attack, we will learn how to assess existing cybersecurity measures and fix vulnerabilities which could otherwise lead to data breaches which cost companies across the world millions of dollars annually.
-.</p>
+      </p>
       </div>
       <div class="tab2">
         <h1 class="text-xl">Speed coding</h1>
-        <p>Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges (which could include problems such as unscrambling lines of code to achieve the desired output) on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the teams with the highest number of points will be recognized as the winners of this event!
-</p>
+        <p>Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges  on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the person with the highest number of points will be recognized as the winner of this event!
+      </p>
 
       </div>
     </section>
-  </div>
 
-              
-              
+
+              </div>
             </div>
           </div>
         </div>
