@@ -12,7 +12,7 @@
     <div class="container flex flex-wrap items-center justify-between mx-auto">
     <a href="/" class="flex items-center">
         <img src="https://flowbite.com/docs/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Flowbite Logo">
-        <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Technetium</span>
+        <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Sreenidhi Technetium 2023</span>
     </a>
     
     <div class="items-center justify-between  w-full md:flex md:w-auto md:order-1" id="navbar-default">
