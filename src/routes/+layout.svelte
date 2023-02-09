@@ -73,7 +73,7 @@
   </div>
   </div>
 
-     <div class="lg:px-24">
+     <div class="lg:px-24 mb-4">
       <div class="justify-items-start">
       <a class=" text-gray-400  " href="/">Technetium 2023.<br></a>
       <a href="https://github.com/ARandomNeko/">
