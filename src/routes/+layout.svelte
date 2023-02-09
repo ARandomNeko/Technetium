@@ -75,10 +75,10 @@
 
      <div class="lg:px-24">
       <div class="justify-items-start">
-      <a class=" text-gray-400  " href="/">Technetium 2023.</a>
-      <p>
+      <a class=" text-gray-400  " href="/">Technetium 2023.<br></a>
+      <a href="https://github.com/ARandomNeko/">
       By Rituparan Reddy 
-      </p>
+      </a>
       </div>
       
     </div>  
