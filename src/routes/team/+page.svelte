@@ -213,7 +213,7 @@
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Samkit"
-                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062400804872532038/64C99BDE-EB55-4F9C-A522-982E6CA2EA5C.jpg" width="350" height="350" >
+                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(5).png" width="350" height="350" >
                             </a>
 
                             <!-- Details -->
