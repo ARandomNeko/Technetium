@@ -77,18 +77,6 @@
 Each team will be working on a single main project to submit to the hackathon judge team for evaluation. You will have about 48 hours to create a functional solution, although it is not necessary for you to implement your entire idea. You will be submitting your project to a single challenge, and the project will be evaluated by the judges who will assign it a score based on a rubric which will be shared with registered participants shortly. 
 </div>
             </div>
-
-            <div class="glass-content ">
-              <div class="p-4">
-                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                  Robotics Showcase
-                </h1>
-                  <p class="text-gray-300">
- Technetium will feature a cutting-edge robotics showcase where college students from the Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability.
-              
-              </div>
-            </div>
-
             <div class="glass-content max-h-[30rem] ">
               <div class="p-4">
                 <h1 class="text-4xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
@@ -128,7 +116,19 @@ Each team will be working on a single main project to submit to the hackathon ju
 
               </div>
             </div>
-          </div>
+          
+            <div class="glass-content ">
+              <div class="p-4">
+                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                  Robotics Showcase
+                </h1>
+                  <p class="text-gray-300">
+ Technetium will feature a cutting-edge robotics showcase where college students from the Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability.
+              
+              </div>
+            </div>
+
+          </div>  
         </div>
       </div>
     </div>
@@ -142,7 +142,7 @@ Each team will be working on a single main project to submit to the hackathon ju
 
   <!-- Themes -->
   <section class="translate-y-10">
-    <div style = "background-image: url('https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
+    <div style = "background-image: url('https://images.unsplash.com/photo-1533134755454-9549758f0e06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
           <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
