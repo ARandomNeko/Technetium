@@ -71,8 +71,7 @@
                   Main Problem
                 </h1>
                   <p class="text-gray-300">
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-              </div>
+Each team will be working on a single main project to submit to the hackathon judge team for evaluation. You will have about 48 hours to create a functional solution, although it is not necessary for you to implement your entire idea. You will be submitting your project to a single challenge, and the project will be evaluated by the judges who will assign it a score based on a rubric which will be shared with registered participants shortly. When the hacking begins, teams will be assigned different rooms where they will have access to various tools and resources (such as software, hardware, and data) and continuous support from the Technetium team.              </div>
             </div>
 
             <div class="glass-content ">
