@@ -19,8 +19,8 @@
                         </h1>
 
                         <!-- Description -->
-                        <p class="text-gray-300 text-xl font-light">
-                            This event is organised and run entirely by  dedicated high school students who recognize the potential of technology in solving current global challenges, and the role of students in shaping the future of our planet.<br>
+                        <p class="text-gray-300 text-2xl font-light">
+                            This event is organised and run entirely by a team of dedicated high school students who recognized the potential of technology in solving current global challenges, and the role of students in shaping the future of our planet.<br>
                         </p>
                     </div>
                 </div>
@@ -52,23 +52,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://www.twitch.tv/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitch text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -95,24 +79,7 @@
                                    Co-Founder & Executive Director
                                 </div>
 
-                                <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -140,23 +107,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -184,23 +135,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -213,7 +148,7 @@
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                     alt="Samkit"
-                                    src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(5).png" width="350" height="350" >
+                                    src="https://cdn.discordapp.com/attachments/809092137387032668/1062400804872532038/64C99BDE-EB55-4F9C-A522-982E6CA2EA5C.jpg" width="350" height="350" >
                             </a>
 
                             <!-- Details -->
@@ -229,23 +164,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -273,23 +192,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -316,24 +219,7 @@
                                     Head of Marketing
                                 </div>
 
-                                <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -361,23 +247,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -406,30 +276,14 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
 
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
                             </div>
                         </div>
                     </div>
 
                    
                     <!--  Member 11 -->
-                    <div class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
+                    <div class=" hidden glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
