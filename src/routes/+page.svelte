@@ -148,30 +148,70 @@ Each team will be working on a single main project to submit to the hackathon ju
           <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
             Themes
           </h1>
+          <p>
+            While the main theme for the event is sustainability, all the problems and challenges given to the participants will revolve around these 4 key themes. 
+          </p>
             
           <div class="mt-12 lg:mt-0 py-4 grid md:grid-cols-2 ">
 
 
             
-            <div class="glass-content">
+            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1534224039826-c7a0eda0e6b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') ; background-position: center center; ">
               <div class="p-4">
-                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                  Energy
-                </h1>
-                  <p class="text-gray-300">
-Energy is the lifeblood of modern society. It powers homes, factories, and businesses. In this theme you will develop innovative solutions that make energy more efficient, reduce emissions, and improve energy access. 
-<br><br>Examples: Solar energy harvesting device, energy efficiency program for commercial buildings
-</div>
+                <div class="p-2 glass-content">
+                  <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Energy
+                  </h1>
+                    <p class="text-gray-300 ">
+                      Energy is the lifeblood of modern society. It powers homes, factories, and businesses. In this theme you will develop innovative solutions that make energy more efficient, reduce emissions, and improve energy access. 
+                      <br><br>Examples: Solar energy harvesting device, energy efficiency program for commercial buildings
+                </div>
+
+              </div>
             </div>
 
-            <div class="glass-content ">
+            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1474333687276-e9e9708cc6e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'); background-position: center center; ">
               <div class="p-4">
-                <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                  Transportation 
-                </h1>
-                  <p class="text-gray-300">
-Transportation is a necessity for economic and social activity around the world. Our challenge is to develop innovative solutions that reduce commuting times and increase efficiency of transportation systems. 
-<br><br>Examples: Autonomous vehicle routing system, smart transport network for developing countries.
+                <div class="glass-content p-2">
+                  <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Transportation 
+                  </h1>
+                    <p class="text-gray-300 ">
+                      Transportation is a necessity for economic and social activity around the world. Our challenge is to develop innovative solutions that reduce commuting times and increase efficiency of transportation systems. 
+                      <br><br>Examples: Autonomous vehicle routing system, smart transport network for developing countries.
+                </div>
+
+              
+              </div>
+            </div>
+
+            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1528323273322-d81458248d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1529&q=80');background-position: center center;">
+              <div class="p-4">
+                <div class=" glass-content p-2">
+                  <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4  ">
+                    Waste Management
+                  </h1>
+                    <p class="text-gray-300 ">
+                     Waste management is an important part of keeping our environment clean. Our challenge is to develop innovative solutions that reduce waste generation and increase waste management efficiency. 
+                      <br><br>Examples: Smart waste collection system, waste to energy conversion system
+                </div>
+                
+
+              
+              </div>
+            </div>
+
+            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1530464684439-723262c0d16e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80'); background-position: center bottom; ">
+              <div class="p-4">
+                <div class=" glass-content p-2">
+                  <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
+                    Agriculture
+                  </h1>
+                    <p class="text-gray-300">
+                      Agriculture is a key part of global economic activity and is critical for food security. Our challenge is to develop innovative solutions that increase efficiency and reduce environmental impacts of agricultural production. 
+                      <br><br>Examples: Automated soil fertility monitoring system, Sensor based irrigation system
+                </div>
+
               
               </div>
             </div>
