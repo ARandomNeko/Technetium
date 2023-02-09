@@ -81,7 +81,7 @@
                   Robotics Showcase
                 </h1>
                   <p class="text-gray-300">
-                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Technetium will feature a cutting-edge robotics showcase where college students from the decade-old Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability by making processes more efficient, reducing waste, and aiding in the conservation of resources. With an exciting lineup of demonstrations and interactive displays, the showcase is a must-attend event for all.
               
               </div>
             </div>
@@ -111,11 +111,13 @@
     <section class="max-h-24">
       <div class="tab1">
         <h1 class="text-xl">Ethical Hacking</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus itaque quidem minus nostrum, voluptatem accusamus aspernatur quia harum ratione, officia laudantium inventore autem doloribus atque labore numquam non. Hic, animi.</p>
+        <p>This event will feature a workshop where you will learn how to improve a website’s cybersecurity through ethical hacking. By simulating a real-world cyber attack, we will learn how to assess existing cybersecurity measures and fix vulnerabilities which could otherwise lead to data breaches which cost companies across the world millions of dollars annually.
+.</p>
       </div>
       <div class="tab2">
         <h1 class="text-xl">Speed coding</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum nesciunt ipsum dolore error repellendus officiis aliquid a, vitae reprehenderit, accusantium vero, ad. Obcaecati numquam sapiente cupiditate. Praesentium eaque, quae error!</p>
+        <p>Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges (which could include problems such as unscrambling lines of code to achieve the desired output) on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the teams with the highest number of points will be recognized as the winners of this event!
+</p>
 
       </div>
     </section>
