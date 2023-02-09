@@ -36,7 +36,7 @@
 
 <slot/>
 
-<footer class =" py-12 justify-items-center px-24 border-gray-600 bg-black "> 
+<footer class ="  justify-items-center px-24 border-gray-600 bg-black "> 
   <div class="grid md:grid-cols-2 md:justify-items-center">
   <div>
     <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-white font-mono mb-1">
