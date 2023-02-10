@@ -68,7 +68,7 @@
 
 
             
-            <div class="glass-content" data-aos="fade-right">
+            <div class="glass-content mt-8" data-aos="fade-right">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Main Problem
@@ -77,7 +77,7 @@
 Each team will be working on a single main project to submit to the hackathon judge team for evaluation. You will have about 48 hours to create a functional solution, although it is not necessary for you to implement your entire idea. You will be submitting your project to a single challenge, and the project will be evaluated by the judges who will assign it a score based on a rubric which will be shared with registered participants shortly. 
 </div>
             </div>
-            <div class="glass-content max-h-[30rem] " data-aos="fade-up" >
+            <div class="glass-content max-h-[30rem] mt-8" data-aos="fade-up" >
               <div class="p-4">
                 <h1 class="text-4xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Individual Events
@@ -117,7 +117,7 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
           
-            <div class="glass-content " data-aos="fade-left">
+            <div class="glass-content mt-8" data-aos="fade-left">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Learnathon
