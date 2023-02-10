@@ -19,7 +19,10 @@
 		<script>
 			AOS.init({
 				duration:500,
-				
+				disable: function(){
+					var maxWidth = 700;
+					return window.innerWidth<maxWidth;
+				}
 			});
 		  </script>
 	</body>
