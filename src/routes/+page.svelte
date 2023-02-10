@@ -1,5 +1,4 @@
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js">
-</script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
 <!-- Sreenidhi Technetium-->
@@ -65,11 +64,11 @@
             <p class="text-gray-300">
               Participants are encouraged to use technology and innovative thinking to tackle pressing environmental challenges such as climate change, waste reduction, and renewable energy. Through collaboration and experimentation, participants will work towards building a more sustainable future for all.
             </p>
-          <div class="mt-12 lg:mt-0 py-4 grid md:grid-cols-3 " data-aos="zoom-in-up">
+          <div class="mt-12 lg:mt-0 py-4 grid md:grid-cols-3 " >
 
 
             
-            <div class="glass-content" >
+            <div class="glass-content" data-aos="fade-right">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Main Problem
@@ -78,7 +77,7 @@
 Each team will be working on a single main project to submit to the hackathon judge team for evaluation. You will have about 48 hours to create a functional solution, although it is not necessary for you to implement your entire idea. You will be submitting your project to a single challenge, and the project will be evaluated by the judges who will assign it a score based on a rubric which will be shared with registered participants shortly. 
 </div>
             </div>
-            <div class="glass-content max-h-[30rem] ">
+            <div class="glass-content max-h-[30rem] " data-aos="fade-up" >
               <div class="p-4">
                 <h1 class="text-4xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Individual Events
@@ -118,7 +117,7 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
           
-            <div class="glass-content ">
+            <div class="glass-content " data-aos="fade-left">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Robotics Showcase
@@ -157,7 +156,7 @@ Each team will be working on a single main project to submit to the hackathon ju
 
 
             
-            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1534224039826-c7a0eda0e6b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') ; background-position: center center; ">
+            <div class=" mt-4 rounded-xl" data-aos="fade-down" style="background-image: url('https://images.unsplash.com/photo-1534224039826-c7a0eda0e6b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80') ; background-position: center center; ">
               <div class="p-4">
                 <div class="p-2 glass-content">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
@@ -171,7 +170,7 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
 
-            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1474333687276-e9e9708cc6e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'); background-position: center center; ">
+            <div class="rounded-xl mt-4" data-aos="fade-down" style="background-image: url('https://images.unsplash.com/photo-1474333687276-e9e9708cc6e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'); background-position: center center; ">
               <div class="p-4">
                 <div class="glass-content p-2">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
@@ -186,7 +185,7 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
 
-            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1528323273322-d81458248d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1529&q=80');background-position: center center;">
+            <div class="rounded-xl mt-4" data-aos="fade-up" style="background-image: url('https://images.unsplash.com/photo-1528323273322-d81458248d40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1529&q=80');background-position: center center;">
               <div class="p-4">
                 <div class=" glass-content p-2">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4  ">
@@ -202,7 +201,7 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
 
-            <div class="glass-content mt-4" style="background-image: url('https://images.unsplash.com/photo-1530464684439-723262c0d16e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80'); background-position: center bottom; ">
+            <div class="rounded-xl mt-4" data-aos="fade-up" style="background-image: url('https://images.unsplash.com/photo-1530464684439-723262c0d16e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80'); background-position: center bottom; ">
               <div class="p-4">
                 <div class=" glass-content p-2">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
@@ -236,7 +235,7 @@ Each team will be working on a single main project to submit to the hackathon ju
             abilities, network with industry leaders, and collaborate with other students who are just as driven 
             as you about making a difference in the world. 
             <div class="grid md:grid-cols-2">
-              <div class="glass-content mt-4">
+              <div class="glass-content mt-4" data-aos="zoom-in-right" >
                 <div class="p-4">
                   <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
                     Networking
@@ -247,7 +246,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                 </div>
               </div>
 
-              <div class="glass-content mt-4">
+              <div class="glass-content mt-4" data-aos="zoom" data-aos-duration="1000">
                 <div class="p-4">
                   <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
                     Skill Development
@@ -257,7 +256,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                 </div>
               </div>
 
-              <div class="glass-content mt-4">
+              <div class="glass-content mt-4" data-aos="zoom" data-aos-duration="1500">
                 <div class="p-4">
                   <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
                     Prizes & Recognition
@@ -266,7 +265,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                       Although all participants will receive a Certificate of Participation, we will recognize the top-performing projects in each track with medals, trophies, and cash prizes thanks to our sponsors! We hope that this opportunity to gain recognition furthers your motivation to participate and showcase your skills. Please note that online and in-person projects will not be scored in the same pool.                </div>
                 </div>  
 
-                <div class="glass-content mt-4">
+                <div class="glass-content mt-4" data-aos="zoom-in-left" >
                   <div class="p-4">
                     <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-blue-500 mb-4">
                       Community Service 
