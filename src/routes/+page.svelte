@@ -2,7 +2,7 @@
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
 <!-- Sreenidhi Technetium-->
-    <section class=" mt-20 sm:mt-10">
+    <section class="center mt-20 sm:mt-10 translate-y-14 mb-48">
      
   
       <div style = "background-image: url('https://wallpapersmug.com/download/1600x900/dbc266/texture-dark-surface.jpg');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
@@ -54,7 +54,7 @@
 
 
 
-      <section class="translate-y-10" data-aos="zoom-in" data-aos-duration="1000">
+      <section class="translate-y-10 mb-24" data-aos="zoom-in" data-aos-duration="1000">
     <div style = "background-image: url('https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
@@ -140,7 +140,7 @@ Each team will be working on a single main project to submit to the hackathon ju
 
 
   <!-- Themes -->
-  <section class="translate-y-10">
+  <section class="translate-y-10" data-aos="fade-up">
     <div style = "background-image: url('https://images.unsplash.com/photo-1533134755454-9549758f0e06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
@@ -222,7 +222,7 @@ Each team will be working on a single main project to submit to the hackathon ju
     </section>
 
   <!-- Why participate -->
-<section class="translate-y-10">
+<section class="translate-y-10" data-aos="flip-up">
   <div style = "background-image: url('https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
     <div class="container mx-auto xl:px-32">
       <div class="items-center ">
