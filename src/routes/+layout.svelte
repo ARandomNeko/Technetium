@@ -47,13 +47,7 @@
       Technetium@sis.edu.in
     </h1>
 
-    <div class="flex items-center justify-left  hover:opacity-100
-    transition-opacity duration-300 py-8">
-        <!-- Instagram -->
-        <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-100 h-10 w-10 translate-x-4 scale-125">
-            <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-        </a>
-    </div>
+    
  
   </div>
   <div>
@@ -73,7 +67,7 @@
   </div>
   </div>
 
-     <div class="lg:px-24 mb-4">
+     <div class="lg:px-24 mb-4 md:translate-x-12">
       <div class="justify-items-start">
       <a class=" text-gray-400  " href="/">Technetium 2023.<br></a>
       <a href="https://github.com/ARandomNeko/">
