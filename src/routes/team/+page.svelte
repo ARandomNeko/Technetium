@@ -36,7 +36,7 @@
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                 src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(9).png" width="350" height="350"
-                                    alt="Ritu">
+                                    alt="Samkit">
                             </a>
 
                             <!-- Details -->
@@ -90,7 +90,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    alt="Vaibhav"
+                                    alt="Vivan"
                                     src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(10).png" width="350" height="350">
                             </a>
 
@@ -118,7 +118,7 @@
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    alt="Vivan"
+                                    alt="Ritu"
                                     src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(8).png" width="350" height="350">
                             </a>
 
@@ -147,7 +147,7 @@
                             <a href="  #!" class="mx-auto">
 
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    alt="Samkit"
+                                    alt="Vaibhav"
                                     src="https://hyapsecl.sirv.com/Images/Technetium/Untitled%20design%20(5).png" width="350" height="350" >
                             </a>
 
