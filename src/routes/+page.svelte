@@ -120,11 +120,10 @@ Each team will be working on a single main project to submit to the hackathon ju
             <div class="glass-content " data-aos="fade-left">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                  Robotics Showcase
+                  Learnathon
                 </h1>
                   <p class="text-gray-300">
- Technetium will feature a cutting-edge robotics showcase where college students from the Robotics Club at the Sreenidhi Institute of Science and Technology (SNIST) will present their latest creations and demonstrate the capabilities of their robots. From beach garbage cleaners to driver drowsiness detectors, these innovators have invested weeks of effort into creating robots with the potential to bring about sustainability.
-              
+                    The final day of Technetium will feature a learnathon: a day of learning which will begin with engaging presentations by a handful of speakers in the fields of tech and sustainability. After these sessions, you will have the opportunity to personally interact with a variety of industry experts in a networking fair and pitch your projects to receive personalized feedback from them.              
               </div>
             </div>
 
