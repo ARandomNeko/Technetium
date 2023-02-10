@@ -1,4 +1,5 @@
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js">
+</script>
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
 <!-- Sreenidhi Technetium-->
@@ -54,7 +55,7 @@
 
 
 
-      <section class="translate-y-10">
+      <section class="translate-y-10" >
     <div style = "background-image: url('https://images.unsplash.com/photo-1526289034009-0240ddb68ce3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
       <div class="container mx-auto xl:px-32">
         <div class="items-center ">
@@ -64,11 +65,11 @@
             <p class="text-gray-300">
               Participants are encouraged to use technology and innovative thinking to tackle pressing environmental challenges such as climate change, waste reduction, and renewable energy. Through collaboration and experimentation, participants will work towards building a more sustainable future for all.
             </p>
-          <div class="mt-12 lg:mt-0 py-4 grid md:grid-cols-3 ">
+          <div class="mt-12 lg:mt-0 py-4 grid md:grid-cols-3 " data-aos="zoom-in-up">
 
 
             
-            <div class="glass-content">
+            <div class="glass-content" >
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Main Problem
