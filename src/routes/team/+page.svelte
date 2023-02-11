@@ -29,7 +29,7 @@
                 <div class="grid md:grid-cols-3 justify-items-center py-4">
 
                     <!--  Member 1 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -58,7 +58,7 @@
                     </div>
 
                     <!--  Member 2 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4  ">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -85,7 +85,7 @@
                     </div>
 
                     <!--  Member 3 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4  ">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -113,7 +113,7 @@
                     </div>
 
                     <!--  Member 4 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -141,7 +141,7 @@
                     </div>
 
                     <!--  Member 5 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -170,7 +170,7 @@
                     </div>
 
                     <!--  Member 6 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4  ">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -198,7 +198,7 @@
                     </div>
 
                     <!--  Member 7 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4  ">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -225,7 +225,7 @@
                     </div>
 
                     <!--  Member 8 -->
-                    <div data-aos="fade-up"  data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
+                    <div data-aos="fade-up"  data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -253,7 +253,7 @@
                     </div>
 
                     <!--  Member 9 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105  hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl transition ease-in-out duration-500 rounded-l-lg">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-l-lg">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
@@ -283,7 +283,7 @@
 
                    
                     <!--  Member 11 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class=" hidden glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4 hover:scale-105 transition ease-in-out duration-500 hover:drop-shadow-[0_35px_35px_rgba(0,0,0,1)]    hover:rounded-xl rounded-r-md">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class=" hidden glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
