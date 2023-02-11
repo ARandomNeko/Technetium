@@ -77,7 +77,7 @@
 Each team will be working on a single main project to submit to the hackathon judge team for evaluation. You will have about 48 hours to create a functional solution, although it is not necessary for you to implement your entire idea. You will be submitting your project to a single challenge, and the project will be evaluated by the judges who will assign it a score based on a rubric which will be shared with registered participants shortly. 
 </div>
             </div>
-            <div class="glass-content mt-8" data-aos="fade-left">
+            <div class="glass-content mt-8" data-aos="fade-up">
               <div class="p-4">
                 <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Learnathon
@@ -86,7 +86,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                     The final day of Technetium will feature a learnathon: a day of learning which will begin with engaging presentations by a handful of speakers in the fields of tech and sustainability. After these sessions, you will have the opportunity to personally interact with a variety of industry experts in a networking fair and pitch your projects to receive personalized feedback from them.              
               </div>
             </div>
-            <div class="glass-content  mt-8" data-aos="fade-up" >
+            <div class="glass-content  mt-8" data-aos="fade-left" >
               <div class="p-4">
                 <h1 class="text-4xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
                   Individual Events
