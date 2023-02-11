@@ -26,7 +26,7 @@
                 </div>
 
                 <!-- Team Members -->
-                <div class="grid md:grid-cols-3 justify-items-center py-4">
+                <div class="grid md:grid-cols-3 justify-items-center py-4" data-aos-easing="easing-in-out" data-aos-duration="500" data-aos-delay="200">
 
                     <!--  Member 1 -->
                     <div data-aos="fade-up" data-aos-easing="ease-in-out" class="glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-l-lg">
