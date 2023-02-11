@@ -138,12 +138,12 @@ Each team will be working on a single main project to submit to the hackathon ju
     </nav>
     <section class="max-h-24">
       <div class="tab1">
-        <h1 class="text-xl">Ethical Hacking</h1>
+        <h1 class="text-xl text-white">Ethical Hacking</h1>
         <p class="text-gray-300">This event will feature a workshop where you will learn how to improve a website’s cybersecurity through ethical hacking. By simulating a real-world cyber attack, we will learn how to assess existing cybersecurity measures and fix vulnerabilities which could otherwise lead to data breaches which cost companies across the world millions of dollars annually.
       </p>
       </div>
       <div class="tab2">
-        <h1 class="text-xl">Speed coding</h1>
+        <h1 class="text-xl text-white">Speed coding</h1>
         <p class="text-gray-300">Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges  on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the person with the highest number of points will be recognized as the winner of this event!
       </p>
 
@@ -176,7 +176,7 @@ Each team will be working on a single main project to submit to the hackathon ju
           <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-bold text-white font-mono mb-4">
             Themes
           </h1>
-          <p>
+          <p class="text-gray-300">
             While the main theme for the event is sustainability, all the problems and challenges given to the participants will revolve around these 4 key themes. 
           </p>
             
