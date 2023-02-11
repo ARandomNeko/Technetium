@@ -298,8 +298,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                       Community Service 
                     </h1>
                       <p class="text-gray-300">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                  </div>  
+                        A portion of the registration fees we receive from participants will go toward bringing sustainability to rural communities in Hyderabad through solar-powered robotics kits for young children. These kits provide hands-on interaction with sustainability and renewable energy through an exploration into the fascinating world of robotics.</div>  
                 </div>
               </div>
 
