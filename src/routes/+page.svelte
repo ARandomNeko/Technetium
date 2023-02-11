@@ -1,11 +1,35 @@
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js, "></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js,https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.21/vanta.net.min.js,https://cdnjs.cloudflare.com/ajax/libs/three.js/r123/three.min.js ">
+  import { onMount } from "svelte";
+
+</script>
+
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
 <!-- Sreenidhi Technetium-->
-    <section class="center mt-20 sm:mt-10 translate-y-14 mb-48">
-     
+
+    <section class=" mt-20 sm:mt-10 translate-y-14 mb-48">
+      <script> 
+        setTimeout(fuckvanta,2000)
+        function fuckvanta() {
+          VANTA.NET({
+          el: "#vantajs",
+          mouseControls: true,
+          touchControls: true,
+          gyroControls: false,
+          minHeight: 200.00,
+          minWidth: 200.00,
+          scale: 1.00,
+          scaleMobile: 1.00,
+          color: 0x7f7a7c,
+          backgroundColor: 0x0,
+          points: 9.00,
+          maxDistance: 25.00
+          });       
+        }
+
+      </script>
   
-      <div id="vantajs" class="px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
+      <div id="vantajs"  class="px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
       
         <div class="container mx-auto xl:px-32">
           <div class="items-center">
@@ -48,22 +72,7 @@
         </div>
       </div>
 
-<script>
-  VANTA.NET({
-    el: "#vantajs",
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: false,
-    minHeight: 200.00,
-    minWidth: 200.00,
-    scale: 1.00,
-    scaleMobile: 1.00,
-    color: 0x7f7a7c,
-    backgroundColor: 0x0,
-    points: 9.00,
-    maxDistance: 25.00
-  });
-  </script>
+
     </section>
   
 
