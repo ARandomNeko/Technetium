@@ -4,7 +4,7 @@
 </script>
 
 <!-- Sreenidhi Technetium-->
-<div class=" bg-black"  >
+<div class=" bg-black px-0 mx-0"  >
 <!-- Sreenidhi Technetium-->
 
     <section class=" mt-20 sm:mt-10 translate-y-14 mb-48">
