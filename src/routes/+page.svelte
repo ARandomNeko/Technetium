@@ -5,7 +5,7 @@
     <section class="center mt-20 sm:mt-10 translate-y-14 mb-48">
      
   
-      <div style = "background-image: url('https://thumbs.gfycat.com/AdventurousNeatGrayreefshark-max-1mb.gif');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
+      <div style = "background-image: url('https://media.tenor.com/UlhK-5w9HHAAAAAC/background-abstract.gif');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
         <div class="container mx-auto xl:px-32">
           <div class="items-center">
             <div class="mt-12 lg:mt-0 py-4">
