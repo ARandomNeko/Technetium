@@ -25,7 +25,7 @@
         </li>
 
         <li>
-          <a href="/register" class="block  text-gray-400 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Register</a>
+          <a href="https://forms.gle/7yMcft9NfsRkDuo56" class="block  text-gray-400 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Register</a>
         </li>
       </ul>
     </div>
@@ -60,7 +60,7 @@
       </li>
 
       <li class="mb-4">
-          <a href="#!" class="hover:underline">Register</a>
+          <a href="https://forms.gle/7yMcft9NfsRkDuo56" class="hover:underline">Register</a>
       </li>
   </ul>
 
