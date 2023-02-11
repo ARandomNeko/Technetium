@@ -19,7 +19,7 @@
                         </h1>
 
                         <!-- Description -->
-                        <p class="text-gray-300 text-lg md:text-2xl font-light">
+                        <p class="text-gray-300 text-lg md:text-2xl font-light text-center">
                             This event is organised and run entirely by a team of dedicated high school students who recognized the potential of technology in solving current global challenges, and the role of students in shaping the future of our planet.<br>
                         </p>
                     </div>
