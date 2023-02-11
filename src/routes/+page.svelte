@@ -1,13 +1,13 @@
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js,https://cdnjs.cloudflare.com/ajax/libs/vanta/0.5.21/vanta.net.min.js,https://cdnjs.cloudflare.com/ajax/libs/three.js/r123/three.min.js ">
-  import { onMount } from "svelte";
+
 
 </script>
 
 <!-- Sreenidhi Technetium-->
-<div class=" bg-black px-0 mx-0"  >
+<div class=" bg-black px-0 mx-0 content-justify-center "  >
 <!-- Sreenidhi Technetium-->
 
-    <section class=" mt-20 sm:mt-10 translate-y-14 mb-48">
+    <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-48">
       <script> 
         setTimeout(fuckvanta,2000)
         function fuckvanta() {
