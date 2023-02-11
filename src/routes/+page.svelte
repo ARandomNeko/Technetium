@@ -229,15 +229,16 @@ Each team will be working on a single main project to submit to the hackathon ju
               </div>
             </div>
 
-            <div class="rounded-xl mt-4" data-aos="fade-up" style="background-image: url('https://images.unsplash.com/photo-1530464684439-723262c0d16e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80'); background-position: center bottom; ">
+            <div class="rounded-xl mt-4" data-aos="fade-up" style="background-image: url('https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'); background-position: center top; ">
               <div class="p-4">
                 <div class=" glass-content p-2">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                    Game and App Development
+                    App Development <br>(Juniors only) 
                   </h1>
                     <p class="text-gray-300">
-                      Game and App Development (Juniors Only): Game and app development is a fun and creative way to develop problem solving skills. Our challenge is to develop innovative game and app solutions that solve real-world problems, increase efficiency, and make the world a better place.  
-                      <br><br>Examples: Educational game for teaching students about sustainability, virtual assistant app for helping small businesses manage their finances.
+                      App development is a fun and creative way to develop problem solving skills.
+                      Our challenge is to develop innovative game and app solutions that solve real-world problems, increase efficiency, and make the world a better place. Using software such as MIT App inventor
+
                 </div>
 
               
