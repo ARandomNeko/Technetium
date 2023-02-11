@@ -233,11 +233,11 @@ Each team will be working on a single main project to submit to the hackathon ju
               <div class="p-4">
                 <div class=" glass-content p-2">
                   <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-bold text-blue-500 mb-4">
-                    Agriculture
+                    Game and App Development
                   </h1>
                     <p class="text-gray-300">
-                      Agriculture is a key part of global economic activity and is critical for food security. Our challenge is to develop innovative solutions that increase efficiency and reduce environmental impacts of agricultural production. 
-                      <br><br>Examples: Automated soil fertility monitoring system, Sensor based irrigation system
+                      Game and App Development (Juniors Only): Game and app development is a fun and creative way to develop problem solving skills. Our challenge is to develop innovative game and app solutions that solve real-world problems, increase efficiency, and make the world a better place.  
+                      <br><br>Examples: Educational game for teaching students about sustainability, virtual assistant app for helping small businesses manage their finances.
                 </div>
 
               
@@ -290,7 +290,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                     Prizes & Recognition
                   </h1>
                     <p class="text-gray-300">
-                      Although all participants will receive a Certificate of Participation, we will recognize the top-performing projects in each track with medals, trophies, and cash prizes thanks to our sponsors! We hope that this opportunity to gain recognition furthers your motivation to participate and showcase your skills. Please note that online and in-person projects will not be scored in the same pool.                </div>
+                      Although all participants will receive a Certificate of Participation, we will recognize the top-performing projects in each track with medals, trophies, and cash prizes thanks to our sponsors! We hope that this opportunity to gain recognition furthers your motivation to participate and showcase your skills.                </div>
                 </div>  
 
                 <div class="glass-content mt-4" data-aos="zoom-in-left" >
