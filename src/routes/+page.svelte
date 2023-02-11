@@ -1,11 +1,12 @@
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js, "></script>
 <!-- Sreenidhi Technetium-->
 <div class=" bg-black"  >
 <!-- Sreenidhi Technetium-->
     <section class="center mt-20 sm:mt-10 translate-y-14 mb-48">
      
   
-      <div style = "background-image: url('https://media.tenor.com/UlhK-5w9HHAAAAAC/background-abstract.gif');background-repeat: no-repeat;  background-size: cover;"class="px-6 py-12 md:px-12 bg-black text-gray-800 text-left lg:text-left block rounded-lg shadow-lg">
+      <div id="vantajs" class="px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
+      
         <div class="container mx-auto xl:px-32">
           <div class="items-center">
             <div class="mt-12 lg:mt-0 py-4">
@@ -46,6 +47,23 @@
           </div>
         </div>
       </div>
+
+<script>
+  VANTA.NET({
+    el: "#vantajs",
+    mouseControls: true,
+    touchControls: true,
+    gyroControls: false,
+    minHeight: 200.00,
+    minWidth: 200.00,
+    scale: 1.00,
+    scaleMobile: 1.00,
+    color: 0x7f7a7c,
+    backgroundColor: 0x0,
+    points: 9.00,
+    maxDistance: 25.00
+  });
+  </script>
     </section>
   
 
