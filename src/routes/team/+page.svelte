@@ -14,12 +14,12 @@
                 <div class=" flex flex-wrap justify-center text-center py-4">
                     <div class=" glass-register w-fit lg:w-6/12 px-4 ">
                         <!-- Header -->
-                        <h1 class="text-xl md:text-6xl xl:text-6xl font-bold font-mono tracking-tight mb-1 text-white ">
+                        <h1 class="text-2xl md:text-6xl xl:text-6xl font-bold font-mono tracking-tight mb-1 text-white ">
                             Meet the Team
                         </h1>
 
                         <!-- Description -->
-                        <p class="text-gray-300 text-2xl font-light">
+                        <p class="text-gray-300 text-lg md:text-2xl font-light">
                             This event is organised and run entirely by a team of dedicated high school students who recognized the potential of technology in solving current global challenges, and the role of students in shaping the future of our planet.<br>
                         </p>
                     </div>
