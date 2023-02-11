@@ -39,11 +39,11 @@
 <footer class ="  justify-items-center px-24 border-gray-600 bg-black "> 
   <div class="grid md:grid-cols-2 md:justify-items-center">
   <div>
-    <h1 class="text-4xl md:text-5xl xl:text-6xl  tracking-tight font-semibold text-white font-mono mb-1">
+    <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-semibold text-white font-mono mb-1">
       Contact Us
     </h1>
 
-    <h1 class="text-3xl md:text-4xl xl:text-5xl  tracking-tight font-semibold text-blue-500 mb-1">
+    <h1 class="text-2xl md:text-3xl xl:text-44xl  tracking-tight font-semibold text-blue-500 mb-1">
       Technetium@sis.edu.in
     </h1>
 
@@ -51,7 +51,7 @@
  
   </div>
   <div>
-    <ul class="text-gray-300 text-2xl">
+    <ol class="text-gray-300 text-2xl">
       <li class="mb-4">
           <a href="/" class=" hover:underline">Home</a>
       </li>
@@ -62,20 +62,11 @@
       <li class="mb-4">
           <a href="https://forms.gle/7yMcft9NfsRkDuo56" class="hover:underline">Register</a>
       </li>
-  </ul>
+  </ol>
 
   </div>
   </div>
 
-     <div class="lg:px-24 mb-4 md:translate-x-12">
-      <div class="justify-items-start">
-      <a class=" text-gray-400  " href="/">Technetium 2023.<br></a>
-      <a href="https://github.com/ARandomNeko/">
-      By Rituparan Reddy 
-      </a>
-      </div>
-      
-    </div>  
 </footer>
 
 
