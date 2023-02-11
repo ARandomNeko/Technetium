@@ -131,7 +131,7 @@
 
                                 <!-- Title -->
                                 <div class="text-slate-400 font-light mb-2">
-                                    Head of IT
+                                    CTO & Head of IT
                                 </div>
 
                                 <!-- Social Icons -->
