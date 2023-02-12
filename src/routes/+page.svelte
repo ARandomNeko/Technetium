@@ -8,7 +8,9 @@
 <!-- Sreenidhi Technetium-->
 
     <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-48 -mr-6">
-      <script>         
+      <script> 
+        setTimeout(fuckvanta,2000)
+        function fuckvanta() {
           VANTA.NET({
           el: "#vantajs",
           mouseControls: true,
@@ -23,6 +25,7 @@
           points: 9.00,
           maxDistance: 25.00
           });       
+        }
       </script>
   
       <div id="vantajs"  class=" px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
