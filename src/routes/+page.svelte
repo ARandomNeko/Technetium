@@ -28,7 +28,7 @@
         }
       </script>
   
-      <div id="vantajs"  class=" typing-title px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
+      <div id="vantajs"  class=" px-6 py-12 md:px-12 text-left lg:text-left block rounded-lg shadow-lg ">
       
         <div class="container mx-auto xl:px-32">
           <div class="items-center">
