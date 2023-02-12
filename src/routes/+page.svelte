@@ -7,7 +7,7 @@
 <div class=" bg-black px-0 mx-0 content-justify-center w-full" data-aos-duration="500" >
 <!-- Sreenidhi Technetium-->
 
-    <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-48 -mr-6">
+    <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-12 -mr-6">
       <script> 
         setTimeout(fuckvanta,2000)
         function fuckvanta() {
@@ -44,15 +44,14 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg ">
-              <div class="py-4 px-4">
+
                 <a 
                    href="https://forms.gle/7yMcft9NfsRkDuo56"
-                   class="translate-y-3 inline-block px-6 py-4  w-full bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
+                   class=" block p-4 max-w-fit bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                   Register
                 </a>
                  
 
-              </div>
             </div>
           </div>
           </div>
@@ -107,31 +106,31 @@ Each team will be working on a single main project to submit to the hackathon ju
                 </h1> 
               </div>  
               
-  <div class="pc-tab px-4 -translate-y-6 ">
-  <input checked="checked" id="tab1" type="radio" name="pct" />
-  <input id="tab2" type="radio" name="pct" />
+              <div class="pc-tab px-4 -translate-y-6 ">
+              <input checked="checked" id="tab1" type="radio" name="pct" />
+              <input id="tab2" type="radio" name="pct" />
 
-    <nav>
-      <ul>
-        <li class="tab1 text-xl text-blue-400 py-2">
-          <label for="tab1">Novice</label>
-        </li>
-        <li class="tab2 text-xl text-blue-400 translate-x-4 py-2">
-          <label for="tab2">Experienced</label>
-        </li>
+                <nav>
+                  <ul>
+                    <li class="tab1 text-xl text-blue-400 py-2">
+                      <label for="tab1">Novice</label>
+                    </li>
+                    <li class="tab2 text-xl text-blue-400 translate-x-4 py-2">
+                      <label for="tab2">Experienced</label>
+                    </li>
 
-      </ul>
-    </nav>
-    <section class="max-h-24">
-      <div class="tab1">
-        <h1 class="text-xl text-white">Ethical Hacking</h1>
-        <p class="text-gray-300">This event will feature a workshop where you will learn how to improve a website’s cybersecurity through ethical hacking. By simulating a real-world cyber attack, we will learn how to assess existing cybersecurity measures and fix vulnerabilities which could otherwise lead to data breaches which cost companies across the world millions of dollars annually.
-      </p>
-      </div>
-      <div class="tab2">
-        <h1 class="text-xl text-white">Speed coding</h1>
-        <p class="text-gray-300">Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges  on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the person with the highest number of points will be recognized as the winner of this event!
-      </p>
+                  </ul>
+                </nav>
+                <section class="max-h-40">
+                  <div class="tab1">
+                    <h1 class="text-xl text-white">Ethical Hacking</h1>
+                    <p class="text-gray-300">This event will feature a workshop where you will learn how to improve a website’s cybersecurity through ethical hacking. By simulating a real-world cyber attack, we will learn how to assess existing cybersecurity measures and fix vulnerabilities which could otherwise lead to data breaches which cost companies across the world millions of dollars annually.
+                  </p>
+                  </div>
+                  <div class="tab2">
+                    <h1 class="text-xl text-white">Speed coding</h1>
+                    <p class="text-gray-300">Individuals will compete against each other in real-time, coding and debugging solutions to tricky challenges  on their own devices. Each challenge can last between 5-10 minutes, and working solutions will be awarded a certain number of points; the person with the highest number of points will be recognized as the winner of this event!
+                  </p>
 
       </div>
     </section>
