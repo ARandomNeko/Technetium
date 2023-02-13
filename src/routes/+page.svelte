@@ -43,7 +43,7 @@
                 Our theme for the first edition of Technetium is Sustainability, and we encourage you to think outside the box and push the boundaries of what is possible. Whether you are a beginner or a seasoned professional, we have a place for you here. So grab your laptops, charge your devices, and prepare for a truly unforgettable experience!
                 
               </p>
-            <div class="glass-register rounded-lg shadow-lg ">
+            <div class="glass-register rounded-lg shadow-lg p-4">
               <form >
                 <div class="grid md:grid-cols-2 md:gap-2 ">
                   <div class="mb-1">
