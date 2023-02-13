@@ -234,7 +234,7 @@ Each team will be working on a single main project to submit to the hackathon ju
                   </h1>
                     <p class="text-gray-300">
                       App development is a fun and creative way to develop problem solving skills.
-                      Our challenge is to develop innovative game and app solutions that solve real-world problems, increase efficiency, and make the world a better place. Using software such as MIT App inventor
+                      Our challenge is to develop innovative game and app solutions that solve real-world problems, increase efficiency, and make the world a better place, using software such as MIT App inventor
 
                 </div>
 
