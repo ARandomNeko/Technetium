@@ -44,10 +44,7 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg ">
-              <script src="https://cdn.logwork.com/widget/countdown.js"></script>
-              <a href="https://forms.gle/7yMcft9NfsRkDuo56" class="countdown-timer" data-timezone="America/Los_Angeles" data-date="2023-03-24 21:15" data-background="#000000">Time till Technetium</a>
-                <a 
-                   href="https://forms.gle/7yMcft9NfsRkDuo56"
+                <a href="https://forms.gle/7yMcft9NfsRkDuo56"
                    class=" block p-4 max-w-fit bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                   Register
                 </a>
