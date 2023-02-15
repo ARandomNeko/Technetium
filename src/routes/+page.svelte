@@ -45,10 +45,10 @@
               </p>
             <div class="glass-register rounded-lg shadow-lg p-4">
               <div class="translate-y-4 text-white">
-                <h1 class="text-2xl font-bold"> When </h1>
-                <p class="text-lg font-light">March 24-26th</p>
-                <h1 class="text-2xl font-bold">Where </h1>
-                <p class="text-lg font-light">Sreenidhi international school </p>
+                <h1 class="text-2xl font-bold text-white"> When </h1>
+                <p class="text-lg font-light text-white">March 24-26th</p>
+                <h1 class="text-2xl font-bold text-white">Where </h1>
+                <p class="text-lg font-light text-white">Sreenidhi international school </p>
               </div>
 
 
