@@ -44,7 +44,7 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg p-4">
-              <div class="translate-y-4">
+              <div class="translate-y-4 text-white">
                 <h1 class="text-2xl font-bold"> When </h1>
                 <p class="text-lg font-light">March 24-26th</p>
                 <h1 class="text-2xl font-bold">Where </h1>
