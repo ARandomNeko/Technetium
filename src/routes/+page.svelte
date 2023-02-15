@@ -44,10 +44,10 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg p-4">
-              <h1> When </h1>
-              <p>March 24-26th</p>
-              <h1>Where </h1>
-              <p>Sreenidhi international school </p>
+              <h1 class="text-2xl font-bold"> When </h1>
+              <p class="text-lg font-light">March 24-26th</p>
+              <h1 class="text-2xl font-bold">Where </h1>
+              <p class="text-lg font-light">Sreenidhi international school </p>
 
                 <a 
                  href="https://forms.gle/7yMcft9NfsRkDuo56"
