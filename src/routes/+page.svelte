@@ -44,26 +44,18 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg p-4">
-              <form >
-                <div class="grid md:grid-cols-2 md:gap-2 ">
-                  <div class="mb-1">
-                    <input type="first-name" name="First-name"class="form-control block w-full px-3  text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="First name"/>
-                  </div>
-                  <div class="mb-1">
-                    <input type="last-name" name="Last-name" class="form-control block w-full px-3  text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Last name"/>
-                  </div>
-                </div>
-                <input type="email"name="Email" class="translate-y-1.5 form-control block w-full px-3 py-1.5 mb-6 text-base font-normal text-gray-700 bg-slate-100 bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-slate-200 focus:border-blue-600 focus:outline-none" placeholder="Email address"/>
-                <div class="form-check flex justify-center mb-1">
-                  
-                </div>
+              <h1> When </h1>
+              <p>March 24-26th</p>
+              <h1>Where </h1>
+              <p>Sreenidhi international school </p>
+
                 <a 
                  href="https://forms.gle/7yMcft9NfsRkDuo56"
                  class="translate-y-3 inline-block px-6 py-4  w-full bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                 Register
               </a>
                
-              </form>
+              
             </div>
           </div>
           </div>
