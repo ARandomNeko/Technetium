@@ -44,14 +44,17 @@
                 
               </p>
             <div class="glass-register rounded-lg shadow-lg p-4">
-              <h1 class="text-2xl font-bold"> When </h1>
-              <p class="text-lg font-light">March 24-26th</p>
-              <h1 class="text-2xl font-bold">Where </h1>
-              <p class="text-lg font-light">Sreenidhi international school </p>
+              <div class="translate-y-4">
+                <h1 class="text-2xl font-bold"> When </h1>
+                <p class="text-lg font-light">March 24-26th</p>
+                <h1 class="text-2xl font-bold">Where </h1>
+                <p class="text-lg font-light">Sreenidhi international school </p>
+              </div>
+
 
                 <a 
                  href="https://forms.gle/7yMcft9NfsRkDuo56"
-                 class="translate-y-3 inline-block px-6 py-4  w-full bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
+                 class="translate-y-10 inline-block px-6 py-4  w-full bg-blue-600 text-white text-center font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">
                 Register
               </a>
                
