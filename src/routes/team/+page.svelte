@@ -281,15 +281,15 @@
                         </div>
                     </div>
 
-                   
+                   <div></div>
                     <!--  Member 11 -->
-                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class=" hidden glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-r-md">
+                    <div data-aos="fade-up" data-aos-easing="ease-in-out" class=" glass py-4 w-full md:w-6/12 lg:w-3/12 mb-12 mx-6 sm:px-6 lg:px-4   rounded-r-md">
                         <div class="flex flex-col">
                             <!-- Avatar -->
                             <a href="  #!" class="mx-auto">
                                 <img class="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
                                 alt="Saharsh"
-                                    src="">
+                                src="https://hyapsecl.sirv.com/Images/Technetium/Screenshot%202023-02-15%20at%205.10.36%20PM.png" width="350" height="350">
                             </a>
 
                             <!-- Details -->
@@ -305,23 +305,7 @@
                                 </div>
 
                                 <!-- Social Icons -->
-                                <div class="flex items-center justify-center opacity-50 hover:opacity-100
-                                transition-opacity duration-300">
-                                    <!-- Linkedin -->
-                                    <a href=" https://github.com/ARandomNeko" class="flex rounded-2xl hover:bg-indigo-50 h-10 w-10">
-                                        <i class="mdi mdi-github text-indigo-500 mx-auto mt-2"></i>
-                                    </a>
 
-                                    <!-- Twitter -->
-                                    <a href="https://twitter.com/ARandomNeko21" class="flex rounded-2xl hover:bg-blue-50 h-10 w-10">
-                                        <i class="mdi mdi-twitter text-blue-300 mx-auto mt-2"></i>
-                                    </a>
-
-                                    <!-- Instagram -->
-                                    <a href=" https://www.instagram.com/arandomneko21/" class="flex rounded-2xl hover:bg-orange-50 h-10 w-10">
-                                        <i class="mdi mdi-instagram text-orange-400 mx-auto mt-2"></i>
-                                    </a>
-                                </div>
                             </div>
                         </div>
                     </div>
