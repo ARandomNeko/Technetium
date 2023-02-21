@@ -7,7 +7,7 @@
 <div class=" bg-black px-0 mx-0 content-justify-center w-full" data-aos-duration="500" >
 <!-- Sreenidhi Technetium-->
 
-    <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-48 -mr-6">
+    <section class=" mt-20 sm:mt-10 md:translate-y-14 mb-48 ">
       <script> 
         setTimeout(fuckvanta,2000)
         function fuckvanta() {
